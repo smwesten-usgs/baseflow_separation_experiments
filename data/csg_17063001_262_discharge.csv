@@ -1,0 +1,2342 @@
+station,tstamp,value,quality,var_name,type
+17063001,2021-11-10 10:30:00,5.41,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 10:00:00,5.39,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 09:30:00,5.37,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 09:00:00,5.41,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 08:30:00,5.41,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 08:00:00,5.4,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 07:30:00,5.42,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 07:00:00,5.42,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 06:30:00,5.43,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 06:00:00,5.43,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 05:30:00,5.42,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 05:00:00,5.42,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 04:30:00,5.46,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 04:00:00,5.45,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 03:30:00,5.48,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 03:00:00,5.5,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 02:30:00,5.46,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 02:00:00,5.46,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 01:30:00,5.52,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 01:00:00,5.55,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 00:30:00,5.52,Poor,Discharge (cfs),provisional
+17063001,2021-11-10 00:00:00,5.53,Poor,Discharge (cfs),provisional
+17063001,2021-11-09 00:00:00,5.74,Poor,Discharge (cfs),approved
+17063001,2021-11-08 00:00:00,6.3,Poor,Discharge (cfs),approved
+17063001,2021-11-07 00:00:00,6.9,Poor,Discharge (cfs),approved
+17063001,2021-11-06 00:00:00,7.24,Poor,Discharge (cfs),approved
+17063001,2021-11-05 00:00:00,7.56,Poor,Discharge (cfs),approved
+17063001,2021-11-04 00:00:00,8.19,Poor,Discharge (cfs),approved
+17063001,2021-11-03 00:00:00,9.17,Poor,Discharge (cfs),approved
+17063001,2021-11-02 00:00:00,10.8,Poor,Discharge (cfs),approved
+17063001,2021-11-01 00:00:00,11.1,Poor,Discharge (cfs),approved
+17063001,2021-10-31 00:00:00,12.1,Poor,Discharge (cfs),approved
+17063001,2021-10-30 00:00:00,14,Poor,Discharge (cfs),approved
+17063001,2021-10-29 00:00:00,15.5,Poor,Discharge (cfs),approved
+17063001,2021-10-28 00:00:00,8.85,Poor,Discharge (cfs),approved
+17063001,2021-10-27 00:00:00,3.26,Poor,Discharge (cfs),approved
+17063001,2021-10-26 00:00:00,3.48,Poor,Discharge (cfs),approved
+17063001,2021-10-25 00:00:00,3.35,Poor,Discharge (cfs),approved
+17063001,2021-10-24 00:00:00,3.69,Poor,Discharge (cfs),approved
+17063001,2021-10-23 00:00:00,3.97,Poor,Discharge (cfs),approved
+17063001,2021-10-22 00:00:00,3.77,Poor,Discharge (cfs),approved
+17063001,2021-10-21 00:00:00,3.7,Poor,Discharge (cfs),approved
+17063001,2021-10-20 00:00:00,2.04,Poor,Discharge (cfs),approved
+17063001,2021-10-19 00:00:00,1.7,Poor,Discharge (cfs),approved
+17063001,2021-10-18 00:00:00,1.79,Poor,Discharge (cfs),approved
+17063001,2021-10-17 00:00:00,1.79,Poor,Discharge (cfs),approved
+17063001,2021-10-16 00:00:00,2.14,Poor,Discharge (cfs),approved
+17063001,2021-10-15 00:00:00,2.25,Poor,Discharge (cfs),approved
+17063001,2021-10-14 00:00:00,1.98,Poor,Discharge (cfs),approved
+17063001,2021-10-13 00:00:00,1.8,Poor,Discharge (cfs),approved
+17063001,2021-10-12 00:00:00,1.5,Poor,Discharge (cfs),approved
+17063001,2021-10-11 00:00:00,1.25,Poor,Discharge (cfs),approved
+17063001,2021-10-10 00:00:00,1.02,Poor,Discharge (cfs),approved
+17063001,2021-10-09 00:00:00,0.5,Poor,Discharge (cfs),approved
+17063001,2021-10-08 00:00:00,0.63,Poor,Discharge (cfs),approved
+17063001,2021-10-07 00:00:00,0.62,Poor,Discharge (cfs),approved
+17063001,2021-10-06 00:00:00,1,Poor,Discharge (cfs),approved
+17063001,2021-10-05 00:00:00,1.22,Poor,Discharge (cfs),approved
+17063001,2021-10-04 00:00:00,0.88,Poor,Discharge (cfs),approved
+17063001,2021-10-03 00:00:00,0.12,Poor,Discharge (cfs),approved
+17063001,2021-10-02 00:00:00,0.03,Poor,Discharge (cfs),approved
+17063001,2021-10-01 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-09-30 00:00:00,0.01,Poor,Discharge (cfs),approved
+17063001,2021-09-29 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-28 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-27 00:00:00,0.01,Poor,Discharge (cfs),approved
+17063001,2021-09-26 00:00:00,0.01,Poor,Discharge (cfs),approved
+17063001,2021-09-25 00:00:00,0.12,Poor,Discharge (cfs),approved
+17063001,2021-09-24 00:00:00,0.62,Poor,Discharge (cfs),approved
+17063001,2021-09-23 00:00:00,1.3,Poor,Discharge (cfs),approved
+17063001,2021-09-22 00:00:00,2.17,Poor,Discharge (cfs),approved
+17063001,2021-09-21 00:00:00,3.24,Poor,Discharge (cfs),approved
+17063001,2021-09-20 00:00:00,1.51,Poor,Discharge (cfs),approved
+17063001,2021-09-19 00:00:00,1.49,Poor,Discharge (cfs),approved
+17063001,2021-09-18 00:00:00,2.67,Poor,Discharge (cfs),approved
+17063001,2021-09-17 00:00:00,0.15,Poor,Discharge (cfs),approved
+17063001,2021-09-16 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-15 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-14 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-09-13 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-12 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-11 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-10 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-09 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-08 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-07 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-06 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-05 00:00:00,0.06,Poor,Discharge (cfs),approved
+17063001,2021-09-04 00:00:00,0.06,Poor,Discharge (cfs),approved
+17063001,2021-09-03 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-02 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-09-01 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-31 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-30 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-29 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-28 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-26 00:00:00,0,Estimated,Discharge (cfs),approved
+17063001,2021-08-25 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2021-08-24 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2021-08-23 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-08-22 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-08-21 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-08-20 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-19 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-18 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-17 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-16 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-15 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-14 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-13 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-12 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-11 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-10 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-08-09 00:00:00,0.15,Poor,Discharge (cfs),approved
+17063001,2021-08-08 00:00:00,0.25,Poor,Discharge (cfs),approved
+17063001,2021-08-07 00:00:00,0.09,Estimated,Discharge (cfs),approved
+17063001,2021-08-06 00:00:00,0.06,Poor,Discharge (cfs),approved
+17063001,2021-08-05 00:00:00,0.03,Poor,Discharge (cfs),approved
+17063001,2021-08-04 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-03 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-02 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-08-01 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-31 00:00:00,0.03,Poor,Discharge (cfs),approved
+17063001,2021-07-30 00:00:00,0.17,Poor,Discharge (cfs),approved
+17063001,2021-07-29 00:00:00,0.39,Poor,Discharge (cfs),approved
+17063001,2021-07-28 00:00:00,0.13,Poor,Discharge (cfs),approved
+17063001,2021-07-27 00:00:00,0.01,Poor,Discharge (cfs),approved
+17063001,2021-07-26 00:00:00,0.04,Poor,Discharge (cfs),approved
+17063001,2021-07-25 00:00:00,0.24,Poor,Discharge (cfs),approved
+17063001,2021-07-24 00:00:00,0.23,200,Discharge (cfs),approved
+17063001,2021-07-23 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-22 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-21 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-20 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-19 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-18 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-17 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-16 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-15 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-14 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-13 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-12 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-11 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-10 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-09 00:00:00,0,Estimated,Discharge (cfs),approved
+17063001,2021-07-08 00:00:00,0,Estimated,Discharge (cfs),approved
+17063001,2021-07-07 00:00:00,0.02,Estimated,Discharge (cfs),approved
+17063001,2021-07-06 00:00:00,0,Estimated,Discharge (cfs),approved
+17063001,2021-07-05 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-04 00:00:00,0,Estimated,Discharge (cfs),approved
+17063001,2021-07-03 00:00:00,0,Estimated,Discharge (cfs),approved
+17063001,2021-07-02 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-07-01 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-06-30 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-06-29 00:00:00,0.01,Poor,Discharge (cfs),approved
+17063001,2021-06-28 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-06-27 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-06-26 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-06-25 00:00:00,0.01,Poor,Discharge (cfs),approved
+17063001,2021-06-24 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2021-06-23 00:00:00,0.18,Estimated,Discharge (cfs),approved
+17063001,2021-06-22 00:00:00,0.01,Estimated,Discharge (cfs),approved
+17063001,2021-06-21 00:00:00,0.01,Poor,Discharge (cfs),approved
+17063001,2021-06-20 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2021-06-19 00:00:00,0.22,Poor,Discharge (cfs),approved
+17063001,2021-06-18 00:00:00,0.24,Poor,Discharge (cfs),approved
+17063001,2021-06-17 00:00:00,0.07,Poor,Discharge (cfs),approved
+17063001,2021-06-16 00:00:00,0.3,Poor,Discharge (cfs),approved
+17063001,2021-06-15 00:00:00,0.05,Poor,Discharge (cfs),approved
+17063001,2021-06-14 00:00:00,0.03,Poor,Discharge (cfs),approved
+17063001,2021-06-13 00:00:00,0.1,Poor,Discharge (cfs),approved
+17063001,2021-06-12 00:00:00,0.49,Poor,Discharge (cfs),approved
+17063001,2021-06-11 00:00:00,1.19,Poor,Discharge (cfs),approved
+17063001,2021-06-10 00:00:00,1.38,Poor,Discharge (cfs),approved
+17063001,2021-06-09 00:00:00,1.79,Poor,Discharge (cfs),approved
+17063001,2021-06-08 00:00:00,1.55,Poor,Discharge (cfs),approved
+17063001,2021-06-07 00:00:00,1.95,Poor,Discharge (cfs),approved
+17063001,2021-06-06 00:00:00,2.66,Poor,Discharge (cfs),approved
+17063001,2021-06-05 00:00:00,3.28,Poor,Discharge (cfs),approved
+17063001,2021-06-04 00:00:00,3.83,Poor,Discharge (cfs),approved
+17063001,2021-06-03 00:00:00,4.25,Poor,Discharge (cfs),approved
+17063001,2021-06-02 00:00:00,4.81,Poor,Discharge (cfs),approved
+17063001,2021-06-01 00:00:00,4.92,Fair,Discharge (cfs),approved
+17063001,2021-05-31 00:00:00,5.73,Fair,Discharge (cfs),approved
+17063001,2021-05-30 00:00:00,6.25,Fair,Discharge (cfs),approved
+17063001,2021-05-29 00:00:00,6.81,Fair,Discharge (cfs),approved
+17063001,2021-05-28 00:00:00,7.86,Fair,Discharge (cfs),approved
+17063001,2021-05-27 00:00:00,5.36,Poor,Discharge (cfs),approved
+17063001,2021-05-26 00:00:00,4.31,Poor,Discharge (cfs),approved
+17063001,2021-05-25 00:00:00,5.08,Poor,Discharge (cfs),approved
+17063001,2021-05-24 00:00:00,5.64,Fair,Discharge (cfs),approved
+17063001,2021-05-23 00:00:00,6.16,Fair,Discharge (cfs),approved
+17063001,2021-05-22 00:00:00,6.66,Fair,Discharge (cfs),approved
+17063001,2021-05-21 00:00:00,7.2,Fair,Discharge (cfs),approved
+17063001,2021-05-20 00:00:00,6.88,Fair,Discharge (cfs),approved
+17063001,2021-05-19 00:00:00,5.6,Fair,Discharge (cfs),approved
+17063001,2021-05-18 00:00:00,5.22,Fair,Discharge (cfs),approved
+17063001,2021-05-17 00:00:00,5.55,Fair,Discharge (cfs),approved
+17063001,2021-05-16 00:00:00,5.81,Fair,Discharge (cfs),approved
+17063001,2021-05-15 00:00:00,6.51,Fair,Discharge (cfs),approved
+17063001,2021-05-14 00:00:00,6.66,Fair,Discharge (cfs),approved
+17063001,2021-05-13 00:00:00,6.57,Fair,Discharge (cfs),approved
+17063001,2021-05-12 00:00:00,7.04,Fair,Discharge (cfs),approved
+17063001,2021-05-11 00:00:00,7.91,Fair,Discharge (cfs),approved
+17063001,2021-05-10 00:00:00,8.86,Fair,Discharge (cfs),approved
+17063001,2021-05-09 00:00:00,9.43,Fair,Discharge (cfs),approved
+17063001,2021-05-08 00:00:00,9.64,Fair,Discharge (cfs),approved
+17063001,2021-05-07 00:00:00,11.2,Fair,Discharge (cfs),approved
+17063001,2021-05-06 00:00:00,13.2,Fair,Discharge (cfs),approved
+17063001,2021-05-05 00:00:00,14.5,Fair,Discharge (cfs),approved
+17063001,2021-05-04 00:00:00,16.4,Fair,Discharge (cfs),approved
+17063001,2021-05-03 00:00:00,18.5,Fair,Discharge (cfs),approved
+17063001,2021-05-02 00:00:00,20.2,Fair,Discharge (cfs),approved
+17063001,2021-05-01 00:00:00,22,Fair,Discharge (cfs),approved
+17063001,2021-04-30 00:00:00,26.8,Poor,Discharge (cfs),approved
+17063001,2021-04-29 00:00:00,33.8,Poor,Discharge (cfs),approved
+17063001,2021-04-28 00:00:00,43,Poor,Discharge (cfs),approved
+17063001,2021-04-27 00:00:00,47.4,Poor,Discharge (cfs),approved
+17063001,2021-04-26 00:00:00,19.9,Poor,Discharge (cfs),approved
+17063001,2021-04-25 00:00:00,16.2,Fair,Discharge (cfs),approved
+17063001,2021-04-24 00:00:00,17.9,Fair,Discharge (cfs),approved
+17063001,2021-04-23 00:00:00,18.2,Fair,Discharge (cfs),approved
+17063001,2021-04-22 00:00:00,19,Fair,Discharge (cfs),approved
+17063001,2021-04-21 00:00:00,20.8,Fair,Discharge (cfs),approved
+17063001,2021-04-20 00:00:00,23.4,Fair,Discharge (cfs),approved
+17063001,2021-04-19 00:00:00,27.6,Poor,Discharge (cfs),approved
+17063001,2021-04-18 00:00:00,34.9,Poor,Discharge (cfs),approved
+17063001,2021-04-17 00:00:00,53.9,Poor,Discharge (cfs),approved
+17063001,2021-04-16 00:00:00,96.8,Poor,Discharge (cfs),approved
+17063001,2021-04-15 00:00:00,143,Fair,Discharge (cfs),approved
+17063001,2021-04-14 00:00:00,181,Poor,Discharge (cfs),approved
+17063001,2021-04-13 00:00:00,220,Poor,Discharge (cfs),approved
+17063001,2021-04-12 00:00:00,259,Poor,Discharge (cfs),approved
+17063001,2021-04-11 00:00:00,294,Poor,Discharge (cfs),approved
+17063001,2021-04-10 00:00:00,318,Poor,Discharge (cfs),approved
+17063001,2021-04-09 00:00:00,277,Poor,Discharge (cfs),approved
+17063001,2021-04-08 00:00:00,198,Poor,Discharge (cfs),approved
+17063001,2021-04-07 00:00:00,81.4,Poor,Discharge (cfs),approved
+17063001,2021-04-06 00:00:00,20.1,Fair,Discharge (cfs),approved
+17063001,2021-04-05 00:00:00,18.4,Fair,Discharge (cfs),approved
+17063001,2021-04-04 00:00:00,19.1,Fair,Discharge (cfs),approved
+17063001,2021-04-03 00:00:00,20.3,Fair,Discharge (cfs),approved
+17063001,2021-04-02 00:00:00,22.6,Fair,Discharge (cfs),approved
+17063001,2021-04-01 00:00:00,29.5,Poor,Discharge (cfs),approved
+17063001,2021-03-31 00:00:00,46.1,Poor,Discharge (cfs),approved
+17063001,2021-03-30 00:00:00,62.3,Poor,Discharge (cfs),approved
+17063001,2021-03-29 00:00:00,70.9,Poor,Discharge (cfs),approved
+17063001,2021-03-28 00:00:00,74.2,Poor,Discharge (cfs),approved
+17063001,2021-03-27 00:00:00,62.1,Poor,Discharge (cfs),approved
+17063001,2021-03-26 00:00:00,68.4,Poor,Discharge (cfs),approved
+17063001,2021-03-25 00:00:00,79.3,Poor,Discharge (cfs),approved
+17063001,2021-03-24 00:00:00,54.7,Poor,Discharge (cfs),approved
+17063001,2021-03-23 00:00:00,23,Poor,Discharge (cfs),approved
+17063001,2021-03-22 00:00:00,22.4,Fair,Discharge (cfs),approved
+17063001,2021-03-21 00:00:00,22,Fair,Discharge (cfs),approved
+17063001,2021-03-20 00:00:00,23.3,Fair,Discharge (cfs),approved
+17063001,2021-03-19 00:00:00,26.3,Poor,Discharge (cfs),approved
+17063001,2021-03-18 00:00:00,30.8,Poor,Discharge (cfs),approved
+17063001,2021-03-17 00:00:00,38,Poor,Discharge (cfs),approved
+17063001,2021-03-16 00:00:00,77,Poor,Discharge (cfs),approved
+17063001,2021-03-15 00:00:00,107,Fair,Discharge (cfs),approved
+17063001,2021-03-14 00:00:00,119,Fair,Discharge (cfs),approved
+17063001,2021-03-13 00:00:00,131,Fair,Discharge (cfs),approved
+17063001,2020-11-08 00:00:00,8.63,Fair,Discharge (cfs),approved
+17063001,2020-11-07 00:00:00,9.38,Fair,Discharge (cfs),approved
+17063001,2020-11-06 00:00:00,10.1,Fair,Discharge (cfs),approved
+17063001,2020-11-05 00:00:00,10.8,Fair,Discharge (cfs),approved
+17063001,2020-11-04 00:00:00,11.2,Fair,Discharge (cfs),approved
+17063001,2020-11-03 00:00:00,11.9,Fair,Discharge (cfs),approved
+17063001,2020-11-02 00:00:00,12.3,Fair,Discharge (cfs),approved
+17063001,2020-11-01 00:00:00,13.5,Fair,Discharge (cfs),approved
+17063001,2020-10-31 00:00:00,12.7,Fair,Discharge (cfs),approved
+17063001,2020-10-30 00:00:00,12.5,Fair,Discharge (cfs),approved
+17063001,2020-10-29 00:00:00,11.5,Fair,Discharge (cfs),approved
+17063001,2020-10-28 00:00:00,8.39,Fair,Discharge (cfs),approved
+17063001,2020-10-27 00:00:00,8.98,Fair,Discharge (cfs),approved
+17063001,2020-10-26 00:00:00,9.67,Fair,Discharge (cfs),approved
+17063001,2020-10-25 00:00:00,10,Fair,Discharge (cfs),approved
+17063001,2020-10-24 00:00:00,10.3,Fair,Discharge (cfs),approved
+17063001,2020-10-23 00:00:00,9.6,Fair,Discharge (cfs),approved
+17063001,2020-10-22 00:00:00,8.47,Fair,Discharge (cfs),approved
+17063001,2020-10-21 00:00:00,7.47,Fair,Discharge (cfs),approved
+17063001,2020-10-20 00:00:00,6.87,Fair,Discharge (cfs),approved
+17063001,2020-10-19 00:00:00,6.99,Fair,Discharge (cfs),approved
+17063001,2020-10-18 00:00:00,6.73,Fair,Discharge (cfs),approved
+17063001,2020-10-17 00:00:00,7.33,Fair,Discharge (cfs),approved
+17063001,2020-10-16 00:00:00,7.23,Fair,Discharge (cfs),approved
+17063001,2020-10-15 00:00:00,8.2,Fair,Discharge (cfs),approved
+17063001,2020-10-14 00:00:00,10.2,Fair,Discharge (cfs),approved
+17063001,2020-10-13 00:00:00,11.2,Fair,Discharge (cfs),approved
+17063001,2020-10-12 00:00:00,9.24,Poor,Discharge (cfs),approved
+17063001,2020-10-11 00:00:00,3.36,Poor,Discharge (cfs),approved
+17063001,2020-10-10 00:00:00,2.57,Poor,Discharge (cfs),approved
+17063001,2020-10-09 00:00:00,2.32,Poor,Discharge (cfs),approved
+17063001,2020-10-08 00:00:00,2.68,Poor,Discharge (cfs),approved
+17063001,2020-10-07 00:00:00,2.56,Poor,Discharge (cfs),approved
+17063001,2020-10-06 00:00:00,2.67,Poor,Discharge (cfs),approved
+17063001,2020-10-05 00:00:00,2.78,Poor,Discharge (cfs),approved
+17063001,2020-10-04 00:00:00,3.6,Poor,Discharge (cfs),approved
+17063001,2020-10-03 00:00:00,3.78,Poor,Discharge (cfs),approved
+17063001,2020-10-02 00:00:00,4.05,Poor,Discharge (cfs),approved
+17063001,2020-10-01 00:00:00,4.18,Poor,Discharge (cfs),approved
+17063001,2020-09-30 00:00:00,4.02,Poor,Discharge (cfs),approved
+17063001,2020-09-29 00:00:00,3.83,Poor,Discharge (cfs),approved
+17063001,2020-09-28 00:00:00,4.46,Poor,Discharge (cfs),approved
+17063001,2020-09-27 00:00:00,4.33,Poor,Discharge (cfs),approved
+17063001,2020-09-26 00:00:00,4.07,Poor,Discharge (cfs),approved
+17063001,2020-09-25 00:00:00,3.49,Poor,Discharge (cfs),approved
+17063001,2020-09-24 00:00:00,3.09,Poor,Discharge (cfs),approved
+17063001,2020-09-23 00:00:00,2.12,Poor,Discharge (cfs),approved
+17063001,2020-09-22 00:00:00,2.22,Poor,Discharge (cfs),approved
+17063001,2020-09-21 00:00:00,2.53,Poor,Discharge (cfs),approved
+17063001,2020-09-20 00:00:00,2.65,Poor,Discharge (cfs),approved
+17063001,2020-09-19 00:00:00,3.22,Poor,Discharge (cfs),approved
+17063001,2020-09-18 00:00:00,3.58,Poor,Discharge (cfs),approved
+17063001,2020-09-17 00:00:00,4.07,Poor,Discharge (cfs),approved
+17063001,2020-09-16 00:00:00,4.34,Poor,Discharge (cfs),approved
+17063001,2020-09-15 00:00:00,4.38,Poor,Discharge (cfs),approved
+17063001,2020-09-14 00:00:00,4.92,Fair,Discharge (cfs),approved
+17063001,2020-09-13 00:00:00,4.99,Fair,Discharge (cfs),approved
+17063001,2020-09-12 00:00:00,4.93,Poor,Discharge (cfs),approved
+17063001,2020-09-11 00:00:00,3.26,Poor,Discharge (cfs),approved
+17063001,2020-09-10 00:00:00,3.63,Poor,Discharge (cfs),approved
+17063001,2020-09-09 00:00:00,4.04,Poor,Discharge (cfs),approved
+17063001,2020-09-08 00:00:00,4.48,Poor,Discharge (cfs),approved
+17063001,2020-09-07 00:00:00,4.99,Fair,Discharge (cfs),approved
+17063001,2020-09-06 00:00:00,6.01,Fair,Discharge (cfs),approved
+17063001,2020-09-05 00:00:00,7,Fair,Discharge (cfs),approved
+17063001,2020-09-04 00:00:00,7.9,Fair,Discharge (cfs),approved
+17063001,2020-09-03 00:00:00,9.12,Fair,Discharge (cfs),approved
+17063001,2020-09-02 00:00:00,10.3,Fair,Discharge (cfs),approved
+17063001,2020-09-01 00:00:00,12,Fair,Discharge (cfs),approved
+17063001,2020-08-31 00:00:00,13.5,Fair,Discharge (cfs),approved
+17063001,2020-08-30 00:00:00,11.7,Fair,Discharge (cfs),approved
+17063001,2020-08-29 00:00:00,10.5,Fair,Discharge (cfs),approved
+17063001,2020-08-28 00:00:00,11.7,Fair,Discharge (cfs),approved
+17063001,2020-08-27 00:00:00,12.4,Fair,Discharge (cfs),approved
+17063001,2020-08-26 00:00:00,14,Fair,Discharge (cfs),approved
+17063001,2020-08-25 00:00:00,16.2,Fair,Discharge (cfs),approved
+17063001,2020-08-24 00:00:00,20.7,Fair,Discharge (cfs),approved
+17063001,2020-08-23 00:00:00,29.2,Poor,Discharge (cfs),approved
+17063001,2020-08-22 00:00:00,43.3,Poor,Discharge (cfs),approved
+17063001,2020-08-21 00:00:00,59.8,Poor,Discharge (cfs),approved
+17063001,2020-08-20 00:00:00,78.8,Poor,Discharge (cfs),approved
+17063001,2020-08-19 00:00:00,93.5,Poor,Discharge (cfs),approved
+17063001,2020-08-18 00:00:00,104,Fair,Discharge (cfs),approved
+17063001,2020-08-17 00:00:00,114,Fair,Discharge (cfs),approved
+17063001,2020-08-16 00:00:00,135,Fair,Discharge (cfs),approved
+17063001,2020-08-15 00:00:00,128,Poor,Discharge (cfs),approved
+17063001,2020-08-14 00:00:00,34.2,Poor,Discharge (cfs),approved
+17063001,2020-08-13 00:00:00,7.4,Fair,Discharge (cfs),approved
+17063001,2020-08-12 00:00:00,2.56,Poor,Discharge (cfs),approved
+17063001,2020-08-11 00:00:00,1.24,Poor,Discharge (cfs),approved
+17063001,2020-08-10 00:00:00,2.02,Poor,Discharge (cfs),approved
+17063001,2020-08-09 00:00:00,2.3,Poor,Discharge (cfs),approved
+17063001,2020-08-08 00:00:00,2.06,Poor,Discharge (cfs),approved
+17063001,2020-08-07 00:00:00,2.39,Poor,Discharge (cfs),approved
+17063001,2020-08-06 00:00:00,2.83,Poor,Discharge (cfs),approved
+17063001,2020-08-05 00:00:00,3.53,Poor,Discharge (cfs),approved
+17063001,2020-08-04 00:00:00,4.61,Poor,Discharge (cfs),approved
+17063001,2020-08-03 00:00:00,6.22,Fair,Discharge (cfs),approved
+17063001,2020-08-02 00:00:00,8.69,Fair,Discharge (cfs),approved
+17063001,2020-08-01 00:00:00,13.4,Fair,Discharge (cfs),approved
+17063001,2020-07-31 00:00:00,22.4,Poor,Discharge (cfs),approved
+17063001,2020-07-30 00:00:00,31.2,Poor,Discharge (cfs),approved
+17063001,2020-07-29 00:00:00,31.9,Poor,Discharge (cfs),approved
+17063001,2020-07-28 00:00:00,27,Poor,Discharge (cfs),approved
+17063001,2020-07-27 00:00:00,23.5,Fair,Discharge (cfs),approved
+17063001,2020-07-26 00:00:00,17.8,Fair,Discharge (cfs),approved
+17063001,2020-07-25 00:00:00,10.6,Fair,Discharge (cfs),approved
+17063001,2020-07-24 00:00:00,13,Fair,Discharge (cfs),approved
+17063001,2020-07-23 00:00:00,16.2,Fair,Discharge (cfs),approved
+17063001,2020-07-22 00:00:00,17.9,Fair,Discharge (cfs),approved
+17063001,2020-07-21 00:00:00,17.8,Fair,Discharge (cfs),approved
+17063001,2020-07-20 00:00:00,15.7,Fair,Discharge (cfs),approved
+17063001,2020-07-19 00:00:00,16.5,Fair,Discharge (cfs),approved
+17063001,2020-07-18 00:00:00,15.9,Poor,Discharge (cfs),approved
+17063001,2020-07-17 00:00:00,2.3,Poor,Discharge (cfs),approved
+17063001,2020-07-16 00:00:00,2.82,Poor,Discharge (cfs),approved
+17063001,2020-07-15 00:00:00,4.17,Poor,Discharge (cfs),approved
+17063001,2020-07-14 00:00:00,3.92,Poor,Discharge (cfs),approved
+17063001,2020-07-13 00:00:00,3.68,Poor,Discharge (cfs),approved
+17063001,2020-07-12 00:00:00,4.97,Poor,Discharge (cfs),approved
+17063001,2020-07-11 00:00:00,5.41,Fair,Discharge (cfs),approved
+17063001,2020-07-10 00:00:00,7.53,Fair,Discharge (cfs),approved
+17063001,2020-07-09 00:00:00,12.4,Fair,Discharge (cfs),approved
+17063001,2020-07-08 00:00:00,12,Fair,Discharge (cfs),approved
+17063001,2020-07-07 00:00:00,9.18,Fair,Discharge (cfs),approved
+17063001,2020-07-06 00:00:00,12.5,Fair,Discharge (cfs),approved
+17063001,2020-07-05 00:00:00,20.3,Fair,Discharge (cfs),approved
+17063001,2020-07-04 00:00:00,26.9,Poor,Discharge (cfs),approved
+17063001,2020-07-03 00:00:00,24.7,Fair,Discharge (cfs),approved
+17063001,2020-07-02 00:00:00,19.1,Fair,Discharge (cfs),approved
+17063001,2020-07-01 00:00:00,7.37,Poor,Discharge (cfs),approved
+17063001,2020-06-30 00:00:00,1.14,Poor,Discharge (cfs),approved
+17063001,2020-06-29 00:00:00,0.16,Poor,Discharge (cfs),approved
+17063001,2020-06-28 00:00:00,0.05,Poor,Discharge (cfs),approved
+17063001,2020-06-27 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2020-06-26 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2020-06-25 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2020-06-24 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2020-06-23 00:00:00,0,Poor,Discharge (cfs),approved
+17063001,2020-06-22 00:00:00,0.02,Poor,Discharge (cfs),approved
+17063001,2020-06-21 00:00:00,0.08,Poor,Discharge (cfs),approved
+17063001,2020-06-20 00:00:00,0.26,Poor,Discharge (cfs),approved
+17063001,2020-06-19 00:00:00,0.44,Poor,Discharge (cfs),approved
+17063001,2020-06-18 00:00:00,0.32,Poor,Discharge (cfs),approved
+17063001,2020-06-17 00:00:00,0.26,Poor,Discharge (cfs),approved
+17063001,2020-06-16 00:00:00,0.57,Poor,Discharge (cfs),approved
+17063001,2020-06-15 00:00:00,0.92,Poor,Discharge (cfs),approved
+17063001,2020-06-14 00:00:00,1.28,Poor,Discharge (cfs),approved
+17063001,2020-06-13 00:00:00,1.58,Poor,Discharge (cfs),approved
+17063001,2020-06-12 00:00:00,1.58,Poor,Discharge (cfs),approved
+17063001,2020-06-11 00:00:00,1.77,Poor,Discharge (cfs),approved
+17063001,2020-06-10 00:00:00,2.42,Poor,Discharge (cfs),approved
+17063001,2020-06-09 00:00:00,2.38,Poor,Discharge (cfs),approved
+17063001,2020-06-08 00:00:00,2.79,Poor,Discharge (cfs),approved
+17063001,2020-06-07 00:00:00,3.95,Poor,Discharge (cfs),approved
+17063001,2020-06-06 00:00:00,2.72,Poor,Discharge (cfs),approved
+17063001,2020-06-05 00:00:00,3.14,Poor,Discharge (cfs),approved
+17063001,2020-06-04 00:00:00,3.1,Poor,Discharge (cfs),approved
+17063001,2020-06-03 00:00:00,3.36,Poor,Discharge (cfs),approved
+17063001,2020-06-02 00:00:00,2.87,Poor,Discharge (cfs),approved
+17063001,2020-06-01 00:00:00,3.01,Poor,Discharge (cfs),approved
+17063001,2020-05-31 00:00:00,3.38,Poor,Discharge (cfs),approved
+17063001,2020-05-30 00:00:00,4.12,Poor,Discharge (cfs),approved
+17063001,2020-05-29 00:00:00,5.08,Fair,Discharge (cfs),approved
+17063001,2020-05-28 00:00:00,5.73,Fair,Discharge (cfs),approved
+17063001,2020-05-27 00:00:00,6.71,Fair,Discharge (cfs),approved
+17063001,2020-05-26 00:00:00,6.89,Fair,Discharge (cfs),approved
+17063001,2020-05-25 00:00:00,7.24,Fair,Discharge (cfs),approved
+17063001,2020-05-24 00:00:00,7.77,Fair,Discharge (cfs),approved
+17063001,2020-05-23 00:00:00,8.33,Fair,Discharge (cfs),approved
+17063001,2020-05-22 00:00:00,8.78,Fair,Discharge (cfs),approved
+17063001,2020-05-21 00:00:00,9.36,Fair,Discharge (cfs),approved
+17063001,2020-05-20 00:00:00,11,Estimated,Discharge (cfs),approved
+17063001,2020-05-19 00:00:00,12.7,Estimated,Discharge (cfs),approved
+17063001,2020-05-18 00:00:00,14.5,Estimated,Discharge (cfs),approved
+17063001,2020-05-17 00:00:00,12,Estimated,Discharge (cfs),approved
+17063001,2020-05-16 00:00:00,7.42,Estimated,Discharge (cfs),approved
+17063001,2020-05-15 00:00:00,7.26,Estimated,Discharge (cfs),approved
+17063001,2020-05-14 00:00:00,7.36,Estimated,Discharge (cfs),approved
+17063001,2020-05-13 00:00:00,6.94,Estimated,Discharge (cfs),approved
+17063001,2020-05-12 00:00:00,7.51,Estimated,Discharge (cfs),approved
+17063001,2020-05-11 00:00:00,8.03,Estimated,Discharge (cfs),approved
+17063001,2020-05-10 00:00:00,9.3,Estimated,Discharge (cfs),approved
+17063001,2020-05-09 00:00:00,9.9,Estimated,Discharge (cfs),approved
+17063001,2020-05-08 00:00:00,11,Estimated,Discharge (cfs),approved
+17063001,2020-05-07 00:00:00,12.3,Estimated,Discharge (cfs),approved
+17063001,2020-05-06 00:00:00,13.6,Estimated,Discharge (cfs),approved
+17063001,2020-05-05 00:00:00,15.3,Estimated,Discharge (cfs),approved
+17063001,2020-05-04 00:00:00,17.6,Estimated,Discharge (cfs),approved
+17063001,2020-05-03 00:00:00,20.5,Estimated,Discharge (cfs),approved
+17063001,2020-05-02 00:00:00,24.4,Estimated,Discharge (cfs),approved
+17063001,2020-05-01 00:00:00,28,Estimated,Discharge (cfs),approved
+17063001,2020-04-30 00:00:00,31.1,Estimated,Discharge (cfs),approved
+17063001,2020-04-29 00:00:00,31.5,Estimated,Discharge (cfs),approved
+17063001,2020-04-28 00:00:00,16.9,Estimated,Discharge (cfs),approved
+17063001,2020-04-27 00:00:00,13,Estimated,Discharge (cfs),approved
+17063001,2020-04-26 00:00:00,13.4,Estimated,Discharge (cfs),approved
+17063001,2020-04-25 00:00:00,14,Estimated,Discharge (cfs),approved
+17063001,2020-04-24 00:00:00,14.4,Estimated,Discharge (cfs),approved
+17063001,2020-04-23 00:00:00,15.3,Estimated,Discharge (cfs),approved
+17063001,2020-04-22 00:00:00,15.7,Estimated,Discharge (cfs),approved
+17063001,2020-04-21 00:00:00,16.8,Estimated,Discharge (cfs),approved
+17063001,2020-04-20 00:00:00,17.4,Estimated,Discharge (cfs),approved
+17063001,2020-04-19 00:00:00,18.3,Estimated,Discharge (cfs),approved
+17063001,2020-04-18 00:00:00,17.7,Estimated,Discharge (cfs),approved
+17063001,2020-04-17 00:00:00,19.2,Estimated,Discharge (cfs),approved
+17063001,2020-04-16 00:00:00,20.9,Estimated,Discharge (cfs),approved
+17063001,2020-04-15 00:00:00,23.8,Estimated,Discharge (cfs),approved
+17063001,2020-04-14 00:00:00,27.1,Estimated,Discharge (cfs),approved
+17063001,2020-04-13 00:00:00,33.4,Estimated,Discharge (cfs),approved
+17063001,2020-04-12 00:00:00,45,Estimated,Discharge (cfs),approved
+17063001,2020-04-11 00:00:00,61.5,Estimated,Discharge (cfs),approved
+17063001,2020-04-10 00:00:00,79.7,Estimated,Discharge (cfs),approved
+17063001,2020-04-09 00:00:00,97.6,Estimated,Discharge (cfs),approved
+17063001,2020-04-08 00:00:00,117,Estimated,Discharge (cfs),approved
+17063001,2020-04-07 00:00:00,137,Estimated,Discharge (cfs),approved
+17063001,2020-04-06 00:00:00,159,Estimated,Discharge (cfs),approved
+17063001,2020-04-05 00:00:00,196,Estimated,Discharge (cfs),approved
+17063001,2020-04-04 00:00:00,246,Estimated,Discharge (cfs),approved
+17063001,2020-04-03 00:00:00,287,Estimated,Discharge (cfs),approved
+17063001,2020-04-02 00:00:00,304,Estimated,Discharge (cfs),approved
+17063001,2020-04-01 00:00:00,311,Estimated,Discharge (cfs),approved
+17063001,2020-03-31 00:00:00,301,Estimated,Discharge (cfs),approved
+17063001,2020-03-30 00:00:00,311,Estimated,Discharge (cfs),approved
+17063001,2020-03-29 00:00:00,217,Estimated,Discharge (cfs),approved
+17063001,2020-03-28 00:00:00,135,Estimated,Discharge (cfs),approved
+17063001,2020-03-27 00:00:00,123,Estimated,Discharge (cfs),approved
+17063001,2020-03-26 00:00:00,115,Estimated,Discharge (cfs),approved
+17063001,2020-03-25 00:00:00,107,Estimated,Discharge (cfs),approved
+17063001,2020-03-24 00:00:00,101,Estimated,Discharge (cfs),approved
+17063001,2020-03-23 00:00:00,101,Estimated,Discharge (cfs),approved
+17063001,2020-03-22 00:00:00,106,Estimated,Discharge (cfs),approved
+17063001,2019-10-31 00:00:00,33.5,Poor,Discharge (cfs),approved
+17063001,2019-10-30 00:00:00,70.9,Poor,Discharge (cfs),approved
+17063001,2019-10-29 00:00:00,110,Fair,Discharge (cfs),approved
+17063001,2019-10-28 00:00:00,138,Fair,Discharge (cfs),approved
+17063001,2019-10-27 00:00:00,154,Fair,Discharge (cfs),approved
+17063001,2019-10-26 00:00:00,152,Fair,Discharge (cfs),approved
+17063001,2019-10-25 00:00:00,140,Fair,Discharge (cfs),approved
+17063001,2019-10-24 00:00:00,134,Fair,Discharge (cfs),approved
+17063001,2019-10-23 00:00:00,146,Fair,Discharge (cfs),approved
+17063001,2019-10-22 00:00:00,135,Poor,Discharge (cfs),approved
+17063001,2019-10-21 00:00:00,44.9,Poor,Discharge (cfs),approved
+17063001,2019-10-20 00:00:00,35.1,Poor,Discharge (cfs),approved
+17063001,2019-10-19 00:00:00,53.9,Poor,Discharge (cfs),approved
+17063001,2019-10-18 00:00:00,68.2,Poor,Discharge (cfs),approved
+17063001,2019-10-17 00:00:00,77.6,Poor,Discharge (cfs),approved
+17063001,2019-10-16 00:00:00,86.4,Poor,Discharge (cfs),approved
+17063001,2019-10-15 00:00:00,96.5,Fair,Discharge (cfs),approved
+17063001,2019-10-14 00:00:00,113,Fair,Discharge (cfs),approved
+17063001,2019-10-13 00:00:00,137,Fair,Discharge (cfs),approved
+17063001,2019-10-12 00:00:00,166,Poor,Discharge (cfs),approved
+17063001,2019-10-11 00:00:00,197,Poor,Discharge (cfs),approved
+17063001,2019-10-10 00:00:00,219,Poor,Discharge (cfs),approved
+17063001,2019-10-09 00:00:00,238,Poor,Discharge (cfs),approved
+17063001,2019-10-08 00:00:00,255,Poor,Discharge (cfs),approved
+17063001,2019-10-07 00:00:00,281,Poor,Discharge (cfs),approved
+17063001,2019-10-06 00:00:00,321,Poor,Discharge (cfs),approved
+17063001,2019-10-05 00:00:00,279,Poor,Discharge (cfs),approved
+17063001,2019-10-04 00:00:00,223,Poor,Discharge (cfs),approved
+17063001,2019-10-03 00:00:00,191,Poor,Discharge (cfs),approved
+17063001,2019-10-02 00:00:00,148,Fair,Discharge (cfs),approved
+17063001,2019-10-01 00:00:00,123,Fair,Discharge (cfs),approved
+17063001,2019-09-30 00:00:00,65.3,Poor,Discharge (cfs),approved
+17063001,2019-09-29 00:00:00,55.6,Poor,Discharge (cfs),approved
+17063001,2019-09-28 00:00:00,84.8,Poor,Discharge (cfs),approved
+17063001,2019-09-27 00:00:00,102,Fair,Discharge (cfs),approved
+17063001,2019-09-26 00:00:00,115,Fair,Discharge (cfs),approved
+17063001,2019-09-25 00:00:00,129,Fair,Discharge (cfs),approved
+17063001,2019-09-24 00:00:00,149,Fair,Discharge (cfs),approved
+17063001,2019-09-23 00:00:00,180,Poor,Discharge (cfs),approved
+17063001,2019-09-22 00:00:00,221,Poor,Discharge (cfs),approved
+17063001,2019-09-21 00:00:00,182,Poor,Discharge (cfs),approved
+17063001,2019-09-20 00:00:00,151,Fair,Discharge (cfs),approved
+17063001,2019-09-19 00:00:00,180,Poor,Discharge (cfs),approved
+17063001,2019-09-18 00:00:00,192,Poor,Discharge (cfs),approved
+17063001,2019-09-17 00:00:00,108,Poor,Discharge (cfs),approved
+17063001,2019-09-16 00:00:00,77,Poor,Discharge (cfs),approved
+17063001,2019-09-15 00:00:00,84.8,Poor,Discharge (cfs),approved
+17063001,2019-09-14 00:00:00,96,Fair,Discharge (cfs),approved
+17063001,2019-09-13 00:00:00,99,Poor,Discharge (cfs),approved
+17063001,2019-09-12 00:00:00,50,Poor,Discharge (cfs),approved
+17063001,2019-09-11 00:00:00,23.6,Poor,Discharge (cfs),approved
+17063001,2019-09-10 00:00:00,12.5,Fair,Discharge (cfs),approved
+17063001,2019-09-09 00:00:00,4.09,Poor,Discharge (cfs),approved
+17063001,2019-09-08 00:00:00,4.27,Poor,Discharge (cfs),approved
+17063001,2019-09-07 00:00:00,4.55,Poor,Discharge (cfs),approved
+17063001,2019-09-06 00:00:00,5.54,Fair,Discharge (cfs),approved
+17063001,2019-09-05 00:00:00,6.09,Fair,Discharge (cfs),approved
+17063001,2019-09-04 00:00:00,7.87,Fair,Discharge (cfs),approved
+17063001,2019-09-03 00:00:00,7.42,Fair,Discharge (cfs),approved
+17063001,2019-09-02 00:00:00,2.41,Poor,Discharge (cfs),approved
+17063001,2019-09-01 00:00:00,2.45,Poor,Discharge (cfs),approved
+17063001,2019-08-31 00:00:00,2.61,Poor,Discharge (cfs),approved
+17063001,2019-08-30 00:00:00,3.14,Poor,Discharge (cfs),approved
+17063001,2019-08-29 00:00:00,3.88,Poor,Discharge (cfs),approved
+17063001,2019-08-28 00:00:00,4.64,Poor,Discharge (cfs),approved
+17063001,2019-08-27 00:00:00,4.31,Poor,Discharge (cfs),approved
+17063001,2019-08-26 00:00:00,3.66,Poor,Discharge (cfs),approved
+17063001,2019-08-25 00:00:00,3.44,Poor,Discharge (cfs),approved
+17063001,2019-08-24 00:00:00,4.04,Poor,Discharge (cfs),approved
+17063001,2019-08-23 00:00:00,4.91,Fair,Discharge (cfs),approved
+17063001,2019-08-22 00:00:00,6.14,Fair,Discharge (cfs),approved
+17063001,2019-08-21 00:00:00,9.04,Fair,Discharge (cfs),approved
+17063001,2019-08-20 00:00:00,8.63,Fair,Discharge (cfs),approved
+17063001,2019-08-19 00:00:00,6.08,Fair,Discharge (cfs),approved
+17063001,2019-08-18 00:00:00,7.58,Fair,Discharge (cfs),approved
+17063001,2019-08-17 00:00:00,7.8,Fair,Discharge (cfs),approved
+17063001,2019-08-16 00:00:00,10.4,Fair,Discharge (cfs),approved
+17063001,2019-08-15 00:00:00,9.2,Fair,Discharge (cfs),approved
+17063001,2019-08-14 00:00:00,7.63,Fair,Discharge (cfs),approved
+17063001,2019-08-13 00:00:00,2.71,Poor,Discharge (cfs),approved
+17063001,2019-08-12 00:00:00,1.79,Poor,Discharge (cfs),approved
+17063001,2019-08-11 00:00:00,1.77,Poor,Discharge (cfs),approved
+17063001,2019-08-10 00:00:00,1.89,Poor,Discharge (cfs),approved
+17063001,2019-08-09 00:00:00,1.91,Poor,Discharge (cfs),approved
+17063001,2019-08-08 00:00:00,2.41,Poor,Discharge (cfs),approved
+17063001,2019-08-07 00:00:00,2.96,Poor,Discharge (cfs),approved
+17063001,2019-08-06 00:00:00,3.45,Poor,Discharge (cfs),approved
+17063001,2019-08-05 00:00:00,4.12,Poor,Discharge (cfs),approved
+17063001,2019-08-04 00:00:00,4.78,Poor,Discharge (cfs),approved
+17063001,2019-08-03 00:00:00,5.52,Fair,Discharge (cfs),approved
+17063001,2019-08-02 00:00:00,6.38,Fair,Discharge (cfs),approved
+17063001,2019-08-01 00:00:00,7.66,Fair,Discharge (cfs),approved
+17063001,2019-07-31 00:00:00,10,Fair,Discharge (cfs),approved
+17063001,2019-07-30 00:00:00,12.7,Fair,Discharge (cfs),approved
+17063001,2019-07-29 00:00:00,15.4,Fair,Discharge (cfs),approved
+17063001,2019-07-28 00:00:00,8.22,Poor,Discharge (cfs),approved
+17063001,2019-07-27 00:00:00,2.86,Poor,Discharge (cfs),approved
+17063001,2019-07-26 00:00:00,2.97,Poor,Discharge (cfs),approved
+17063001,2019-07-25 00:00:00,2.8,Poor,Discharge (cfs),approved
+17063001,2019-07-24 00:00:00,3.16,Poor,Discharge (cfs),approved
+17063001,2019-07-23 00:00:00,3.71,Poor,Discharge (cfs),approved
+17063001,2019-07-22 00:00:00,4.52,Poor,Discharge (cfs),approved
+17063001,2019-07-21 00:00:00,5.67,Fair,Discharge (cfs),approved
+17063001,2019-07-20 00:00:00,6.69,Fair,Discharge (cfs),approved
+17063001,2019-07-19 00:00:00,7.18,Fair,Discharge (cfs),approved
+17063001,2019-07-18 00:00:00,8.59,Fair,Discharge (cfs),approved
+17063001,2019-07-17 00:00:00,11.2,Fair,Discharge (cfs),approved
+17063001,2019-07-16 00:00:00,14.4,Fair,Discharge (cfs),approved
+17063001,2019-07-15 00:00:00,19.8,Fair,Discharge (cfs),approved
+17063001,2019-07-14 00:00:00,30.2,Poor,Discharge (cfs),approved
+17063001,2019-07-13 00:00:00,53.9,Poor,Discharge (cfs),approved
+17063001,2019-07-12 00:00:00,85,Poor,Discharge (cfs),approved
+17063001,2019-07-11 00:00:00,109,Fair,Discharge (cfs),approved
+17063001,2019-07-10 00:00:00,124,Fair,Discharge (cfs),approved
+17063001,2019-07-09 00:00:00,123,Fair,Discharge (cfs),approved
+17063001,2019-07-08 00:00:00,127,Fair,Discharge (cfs),approved
+17063001,2019-07-07 00:00:00,159,Poor,Discharge (cfs),approved
+17063001,2019-07-06 00:00:00,229,Poor,Discharge (cfs),approved
+17063001,2019-07-05 00:00:00,312,Poor,Discharge (cfs),approved
+17063001,2019-07-04 00:00:00,206,Poor,Discharge (cfs),approved
+17063001,2019-07-03 00:00:00,170,Poor,Discharge (cfs),approved
+17063001,2019-07-02 00:00:00,189,Poor,Discharge (cfs),approved
+17063001,2019-07-01 00:00:00,184,Poor,Discharge (cfs),approved
+17063001,2019-06-30 00:00:00,111,Fair,Discharge (cfs),approved
+17063001,2019-06-29 00:00:00,98,Fair,Discharge (cfs),approved
+17063001,2019-06-28 00:00:00,118,Fair,Discharge (cfs),approved
+17063001,2019-06-27 00:00:00,48.9,Poor,Discharge (cfs),approved
+17063001,2019-06-26 00:00:00,15.9,Fair,Discharge (cfs),approved
+17063001,2019-06-25 00:00:00,12.7,Fair,Discharge (cfs),approved
+17063001,2019-06-24 00:00:00,9.7,Fair,Discharge (cfs),approved
+17063001,2019-06-23 00:00:00,6.2,Fair,Discharge (cfs),approved
+17063001,2019-06-22 00:00:00,6.61,Fair,Discharge (cfs),approved
+17063001,2019-06-21 00:00:00,7.86,Fair,Discharge (cfs),approved
+17063001,2019-06-20 00:00:00,7.47,Fair,Discharge (cfs),approved
+17063001,2019-06-19 00:00:00,7.39,Fair,Discharge (cfs),approved
+17063001,2019-06-18 00:00:00,8.62,Fair,Discharge (cfs),approved
+17063001,2019-06-17 00:00:00,9.65,Fair,Discharge (cfs),approved
+17063001,2019-06-16 00:00:00,10.6,Fair,Discharge (cfs),approved
+17063001,2019-06-15 00:00:00,11,Fair,Discharge (cfs),approved
+17063001,2019-06-14 00:00:00,11.5,Fair,Discharge (cfs),approved
+17063001,2019-06-13 00:00:00,10.7,Fair,Discharge (cfs),approved
+17063001,2019-06-12 00:00:00,11.1,Fair,Discharge (cfs),approved
+17063001,2019-06-11 00:00:00,10.7,Fair,Discharge (cfs),approved
+17063001,2019-06-10 00:00:00,12.9,Fair,Discharge (cfs),approved
+17063001,2019-06-09 00:00:00,15.3,Fair,Discharge (cfs),approved
+17063001,2019-06-08 00:00:00,18.9,Fair,Discharge (cfs),approved
+17063001,2019-06-07 00:00:00,29,Poor,Discharge (cfs),approved
+17063001,2019-06-06 00:00:00,60.4,Poor,Discharge (cfs),approved
+17063001,2019-06-05 00:00:00,83.2,Poor,Discharge (cfs),approved
+17063001,2019-06-04 00:00:00,29.5,Poor,Discharge (cfs),approved
+17063001,2019-06-03 00:00:00,22.4,Fair,Discharge (cfs),approved
+17063001,2019-06-02 00:00:00,26.3,Poor,Discharge (cfs),approved
+17063001,2019-06-01 00:00:00,36.6,Poor,Discharge (cfs),approved
+17063001,2019-05-31 00:00:00,69.1,Poor,Discharge (cfs),approved
+17063001,2019-05-30 00:00:00,109,Fair,Discharge (cfs),approved
+17063001,2019-05-29 00:00:00,147,Fair,Discharge (cfs),approved
+17063001,2019-05-28 00:00:00,187,Poor,Discharge (cfs),approved
+17063001,2019-05-27 00:00:00,213,Poor,Discharge (cfs),approved
+17063001,2019-05-26 00:00:00,235,Poor,Discharge (cfs),approved
+17063001,2019-05-25 00:00:00,257,Poor,Discharge (cfs),approved
+17063001,2019-05-24 00:00:00,277,Poor,Discharge (cfs),approved
+17063001,2019-05-23 00:00:00,296,Poor,Discharge (cfs),approved
+17063001,2019-05-22 00:00:00,238,Poor,Discharge (cfs),approved
+17063001,2019-05-21 00:00:00,176,Poor,Discharge (cfs),approved
+17063001,2019-05-20 00:00:00,191,Poor,Discharge (cfs),approved
+17063001,2019-05-19 00:00:00,163,Poor,Discharge (cfs),approved
+17063001,2019-05-18 00:00:00,80.8,Poor,Discharge (cfs),approved
+17063001,2019-05-17 00:00:00,23.1,Fair,Discharge (cfs),approved
+17063001,2019-05-16 00:00:00,27.9,Poor,Discharge (cfs),approved
+17063001,2019-05-15 00:00:00,38.4,Poor,Discharge (cfs),approved
+17063001,2019-05-14 00:00:00,59.9,Poor,Discharge (cfs),approved
+17063001,2019-05-13 00:00:00,79.3,Poor,Discharge (cfs),approved
+17063001,2019-05-12 00:00:00,86.7,Poor,Discharge (cfs),approved
+17063001,2019-05-11 00:00:00,90.9,Fair,Discharge (cfs),approved
+17063001,2019-05-10 00:00:00,91.4,Poor,Discharge (cfs),approved
+17063001,2019-05-09 00:00:00,64.2,Poor,Discharge (cfs),approved
+17063001,2019-05-08 00:00:00,31.3,Poor,Discharge (cfs),approved
+17063001,2019-05-07 00:00:00,34.8,Poor,Discharge (cfs),approved
+17063001,2019-05-06 00:00:00,42.4,Poor,Discharge (cfs),approved
+17063001,2019-05-05 00:00:00,49.4,Poor,Discharge (cfs),approved
+17063001,2019-05-04 00:00:00,47,Poor,Discharge (cfs),approved
+17063001,2019-05-03 00:00:00,35.3,Poor,Discharge (cfs),approved
+17063001,2019-05-02 00:00:00,37,Poor,Discharge (cfs),approved
+17063001,2019-05-01 00:00:00,37.5,Poor,Discharge (cfs),approved
+17063001,2019-04-30 00:00:00,38.2,Poor,Discharge (cfs),approved
+17063001,2019-04-29 00:00:00,45.6,Poor,Discharge (cfs),approved
+17063001,2019-04-28 00:00:00,71.7,Poor,Discharge (cfs),approved
+17063001,2019-04-27 00:00:00,103,Poor,Discharge (cfs),approved
+17063001,2019-04-26 00:00:00,116,Poor,Discharge (cfs),approved
+17063001,2019-04-25 00:00:00,130,Poor,Discharge (cfs),approved
+17063001,2019-04-24 00:00:00,150,Poor,Discharge (cfs),approved
+17063001,2019-04-23 00:00:00,183,Poor,Discharge (cfs),approved
+17063001,2019-04-22 00:00:00,206,Poor,Discharge (cfs),approved
+17063001,2019-04-21 00:00:00,210,Poor,Discharge (cfs),approved
+17063001,2019-04-20 00:00:00,210,Poor,Discharge (cfs),approved
+17063001,2019-04-19 00:00:00,207,Poor,Discharge (cfs),approved
+17063001,2019-04-18 00:00:00,209,Poor,Discharge (cfs),approved
+17063001,2019-04-17 00:00:00,140,Poor,Discharge (cfs),approved
+17063001,2019-04-16 00:00:00,120,Poor,Discharge (cfs),approved
+17063001,2019-04-15 00:00:00,104,Poor,Discharge (cfs),approved
+17063001,2019-04-14 00:00:00,73.9,Poor,Discharge (cfs),approved
+17063001,2019-04-13 00:00:00,100,Poor,Discharge (cfs),approved
+17063001,2019-04-12 00:00:00,125,Poor,Discharge (cfs),approved
+17063001,2019-04-11 00:00:00,136,Poor,Discharge (cfs),approved
+17063001,2019-04-10 00:00:00,137,Poor,Discharge (cfs),approved
+17063001,2019-04-09 00:00:00,131,Poor,Discharge (cfs),approved
+17063001,2019-04-08 00:00:00,128,Poor,Discharge (cfs),approved
+17063001,2019-04-07 00:00:00,115,Poor,Discharge (cfs),approved
+17063001,2019-04-06 00:00:00,71.2,Poor,Discharge (cfs),approved
+17063001,2019-04-05 00:00:00,44.2,Poor,Discharge (cfs),approved
+17063001,2019-04-04 00:00:00,67.4,Poor,Discharge (cfs),approved
+17063001,2019-04-03 00:00:00,112,Poor,Discharge (cfs),approved
+17063001,2019-04-02 00:00:00,152,Poor,Discharge (cfs),approved
+17063001,2019-04-01 00:00:00,185,Poor,Discharge (cfs),approved
+17063001,2019-03-31 00:00:00,216,Poor,Discharge (cfs),approved
+17063001,2019-03-30 00:00:00,248,Poor,Discharge (cfs),approved
+17063001,2019-03-29 00:00:00,288,Poor,Discharge (cfs),approved
+17063001,2019-03-28 00:00:00,331,Poor,Discharge (cfs),approved
+17063001,2019-03-27 00:00:00,349,Poor,Discharge (cfs),approved
+17063001,2019-03-26 00:00:00,383,Poor,Discharge (cfs),approved
+17063001,2019-03-25 00:00:00,423,Poor,Discharge (cfs),approved
+17063001,2019-03-24 00:00:00,440,Poor,Discharge (cfs),approved
+17063001,2019-03-23 00:00:00,431,Poor,Discharge (cfs),approved
+17063001,2019-03-22 00:00:00,379,Poor,Discharge (cfs),approved
+17063001,2012-10-31 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-10-30 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-29 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-10-28 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-27 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-26 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-25 00:00:00,0.17,Estimated,Discharge (cfs),approved
+17063001,2012-10-24 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-23 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-22 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-21 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-20 00:00:00,0.16,Estimated,Discharge (cfs),approved
+17063001,2012-10-19 00:00:00,0.16,Estimated,Discharge (cfs),approved
+17063001,2012-10-18 00:00:00,0.16,Estimated,Discharge (cfs),approved
+17063001,2012-10-17 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-16 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-10-15 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-10-14 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-13 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-12 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-11 00:00:00,0.16,Estimated,Discharge (cfs),approved
+17063001,2012-10-10 00:00:00,0.16,Estimated,Discharge (cfs),approved
+17063001,2012-10-09 00:00:00,0.16,Estimated,Discharge (cfs),approved
+17063001,2012-10-08 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-07 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-06 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-05 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-10-04 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-10-03 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-10-02 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-10-01 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-30 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-29 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-28 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-27 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-26 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-25 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-24 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-23 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-22 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-21 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-20 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-19 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-18 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-17 00:00:00,0.11,Estimated,Discharge (cfs),approved
+17063001,2012-09-16 00:00:00,0.11,Estimated,Discharge (cfs),approved
+17063001,2012-09-15 00:00:00,0.11,Estimated,Discharge (cfs),approved
+17063001,2012-09-14 00:00:00,0.12,Estimated,Discharge (cfs),approved
+17063001,2012-09-13 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-12 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-11 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-10 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-09-09 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-09-08 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-09-07 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-09-06 00:00:00,0.13,Estimated,Discharge (cfs),approved
+17063001,2012-09-05 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-09-04 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-09-03 00:00:00,0.14,Estimated,Discharge (cfs),approved
+17063001,2012-09-02 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-09-01 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-08-31 00:00:00,0.16,Estimated,Discharge (cfs),approved
+17063001,2012-08-30 00:00:00,0.17,Estimated,Discharge (cfs),approved
+17063001,2012-08-29 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-08-28 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-08-27 00:00:00,0.15,Estimated,Discharge (cfs),approved
+17063001,2012-08-26 00:00:00,0.17,Estimated,Discharge (cfs),approved
+17063001,2012-08-25 00:00:00,0.18,Estimated,Discharge (cfs),approved
+17063001,2012-08-24 00:00:00,0.21,Estimated,Discharge (cfs),approved
+17063001,2012-08-23 00:00:00,0.35,Estimated,Discharge (cfs),approved
+17063001,2012-08-22 00:00:00,0.21,Estimated,Discharge (cfs),approved
+17063001,2012-08-21 00:00:00,0.2,Estimated,Discharge (cfs),approved
+17063001,2012-08-20 00:00:00,0.26,Estimated,Discharge (cfs),approved
+17063001,2012-08-19 00:00:00,0.49,Estimated,Discharge (cfs),approved
+17063001,2012-08-18 00:00:00,0.69,Estimated,Discharge (cfs),approved
+17063001,2012-08-17 00:00:00,0.92,Estimated,Discharge (cfs),approved
+17063001,2012-08-16 00:00:00,1.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-15 00:00:00,1.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-14 00:00:00,2.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-13 00:00:00,4.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-12 00:00:00,4.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-11 00:00:00,4.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-10 00:00:00,5.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-09 00:00:00,5.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-08 00:00:00,3.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-07 00:00:00,4.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-06 00:00:00,8.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-05 00:00:00,10,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-04 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-03 00:00:00,7.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-02 00:00:00,8.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-08-01 00:00:00,12,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-31 00:00:00,15,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-30 00:00:00,20,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-29 00:00:00,24,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-28 00:00:00,28,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-27 00:00:00,38,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-26 00:00:00,54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-25 00:00:00,73,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-24 00:00:00,89,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-23 00:00:00,82,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-22 00:00:00,58,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-21 00:00:00,35,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-20 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-19 00:00:00,25,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-18 00:00:00,16,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-17 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-16 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-15 00:00:00,9.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-14 00:00:00,4.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-13 00:00:00,2.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-12 00:00:00,2.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-11 00:00:00,2.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-10 00:00:00,4.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-09 00:00:00,6.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-08 00:00:00,7.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-07 00:00:00,9.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-06 00:00:00,10,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-05 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-04 00:00:00,16,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-03 00:00:00,19,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-02 00:00:00,23,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-07-01 00:00:00,29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-30 00:00:00,37,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-29 00:00:00,48,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-28 00:00:00,60,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-27 00:00:00,74,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-26 00:00:00,90,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-25 00:00:00,102,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-24 00:00:00,115,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-23 00:00:00,123,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-22 00:00:00,131,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-21 00:00:00,139,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-20 00:00:00,136,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-19 00:00:00,125,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-18 00:00:00,104,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-17 00:00:00,85,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-16 00:00:00,84,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-15 00:00:00,82,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-14 00:00:00,49,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-13 00:00:00,25,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-12 00:00:00,24,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-11 00:00:00,26,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-10 00:00:00,16,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-09 00:00:00,18,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-08 00:00:00,25,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-07 00:00:00,36,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-06 00:00:00,54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-05 00:00:00,84,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-04 00:00:00,124,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-06-03 00:00:00,165,Estimated,Discharge (cfs),approved
+17063001,2012-06-02 00:00:00,199,Estimated,Discharge (cfs),approved
+17063001,2012-06-01 00:00:00,210,Estimated,Discharge (cfs),approved
+17063001,2012-05-31 00:00:00,197,Estimated,Discharge (cfs),approved
+17063001,2012-05-30 00:00:00,185,Estimated,Discharge (cfs),approved
+17063001,2012-05-29 00:00:00,210,Estimated,Discharge (cfs),approved
+17063001,2012-05-28 00:00:00,179,Estimated,Discharge (cfs),approved
+17063001,2012-05-27 00:00:00,106,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-26 00:00:00,95,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-25 00:00:00,86,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-24 00:00:00,49,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-23 00:00:00,26,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-22 00:00:00,28,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-21 00:00:00,33,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-20 00:00:00,30,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-19 00:00:00,20,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-18 00:00:00,23,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-17 00:00:00,30,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-16 00:00:00,41,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-15 00:00:00,64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-14 00:00:00,109,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-05-13 00:00:00,167,Estimated,Discharge (cfs),approved
+17063001,2012-05-12 00:00:00,225,Estimated,Discharge (cfs),approved
+17063001,2012-05-11 00:00:00,282,Estimated,Discharge (cfs),approved
+17063001,2012-05-10 00:00:00,324,Unreliable,Discharge (cfs),approved
+17063001,2012-05-09 00:00:00,360,Unreliable,Discharge (cfs),approved
+17063001,2012-05-08 00:00:00,381,Unreliable,Discharge (cfs),approved
+17063001,2012-05-07 00:00:00,392,Unreliable,Discharge (cfs),approved
+17063001,2012-05-06 00:00:00,315,Unreliable,Discharge (cfs),approved
+17063001,2012-05-05 00:00:00,222,Estimated,Discharge (cfs),approved
+17063001,2012-05-04 00:00:00,272,Estimated,Discharge (cfs),approved
+17063001,2012-05-03 00:00:00,344,Unreliable,Discharge (cfs),approved
+17063001,2012-05-02 00:00:00,253,Unreliable,Discharge (cfs),approved
+17063001,2012-05-01 00:00:00,41,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-30 00:00:00,25,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-29 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-28 00:00:00,32,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-27 00:00:00,42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-26 00:00:00,55,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-25 00:00:00,69,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-24 00:00:00,81,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-23 00:00:00,82,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-22 00:00:00,71,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-21 00:00:00,70,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-20 00:00:00,80,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-19 00:00:00,94,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-18 00:00:00,105,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-17 00:00:00,95,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-16 00:00:00,59,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-15 00:00:00,16,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-14 00:00:00,6.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-13 00:00:00,5.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-12 00:00:00,4.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-11 00:00:00,5.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-10 00:00:00,6.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-09 00:00:00,7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-08 00:00:00,7.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-07 00:00:00,8.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-06 00:00:00,9.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-05 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-04 00:00:00,13,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-03 00:00:00,14,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-02 00:00:00,15,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-04-01 00:00:00,16,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-31 00:00:00,18,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-30 00:00:00,20,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-29 00:00:00,25,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-28 00:00:00,34,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-27 00:00:00,45,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-26 00:00:00,63,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-25 00:00:00,77,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-24 00:00:00,83,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-23 00:00:00,87,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-22 00:00:00,88,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-21 00:00:00,82,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-20 00:00:00,63,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2012-03-19 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-18 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-17 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-16 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-15 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-14 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-13 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-12 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-11 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-10 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-09 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-08 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-07 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-06 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-05 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-04 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-03 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-02 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-03-01 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-29 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-28 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-27 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-26 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-25 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-24 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-23 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-22 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-21 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-20 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-19 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-18 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-17 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-16 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-15 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-14 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-13 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-12 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-11 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-10 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-09 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-08 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-07 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-06 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-05 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-04 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-03 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-02 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-02-01 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-31 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-30 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-29 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-28 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-27 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-26 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-25 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-24 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-23 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-22 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-21 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-20 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-19 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-18 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-17 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-16 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-15 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-14 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-13 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-12 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-11 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-10 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-09 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-08 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-07 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-06 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-05 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-04 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-03 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-02 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2012-01-01 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-11-27 00:00:00,8.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-26 00:00:00,7.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-25 00:00:00,6.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-24 00:00:00,5.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-23 00:00:00,5.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-22 00:00:00,5.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-21 00:00:00,5.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-20 00:00:00,4.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-19 00:00:00,4.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-18 00:00:00,4.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-17 00:00:00,4.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-16 00:00:00,5.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-15 00:00:00,5.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-14 00:00:00,5.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-13 00:00:00,5.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-12 00:00:00,5.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-11 00:00:00,5.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-10 00:00:00,5.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-09 00:00:00,5.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-08 00:00:00,5.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-07 00:00:00,5.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-06 00:00:00,6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-05 00:00:00,5.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-04 00:00:00,6.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-03 00:00:00,6.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-02 00:00:00,6.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-11-01 00:00:00,5.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-31 00:00:00,5.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-30 00:00:00,6.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-29 00:00:00,5.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-28 00:00:00,6.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-27 00:00:00,6.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-26 00:00:00,6.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-25 00:00:00,5.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-24 00:00:00,5.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-23 00:00:00,6.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-22 00:00:00,6.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-21 00:00:00,6.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-20 00:00:00,6.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-19 00:00:00,6.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-18 00:00:00,7.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-17 00:00:00,7.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-16 00:00:00,8.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-15 00:00:00,8.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-14 00:00:00,7.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-13 00:00:00,6.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-12 00:00:00,5.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-11 00:00:00,5.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-10 00:00:00,4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-09 00:00:00,3.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-08 00:00:00,3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-07 00:00:00,3.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-06 00:00:00,3.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-05 00:00:00,2.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-04 00:00:00,3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-03 00:00:00,2.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-02 00:00:00,5.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-10-01 00:00:00,4.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-30 00:00:00,4.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-29 00:00:00,4.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-28 00:00:00,4.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-27 00:00:00,5.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-26 00:00:00,5.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-25 00:00:00,6.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-24 00:00:00,6.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-23 00:00:00,6.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-22 00:00:00,5.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-21 00:00:00,4.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-20 00:00:00,4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-19 00:00:00,3.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-18 00:00:00,2.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-17 00:00:00,2.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-16 00:00:00,2.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-15 00:00:00,3.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-14 00:00:00,3.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-13 00:00:00,3.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-12 00:00:00,4.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-11 00:00:00,4.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-10 00:00:00,5.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-09 00:00:00,5.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-08 00:00:00,6.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-07 00:00:00,6.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-06 00:00:00,7.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-05 00:00:00,8.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-04 00:00:00,11,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-03 00:00:00,14,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-02 00:00:00,16,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-09-01 00:00:00,19,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-31 00:00:00,17,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-30 00:00:00,21,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-29 00:00:00,28,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-28 00:00:00,38,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-27 00:00:00,50,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-26 00:00:00,56,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-25 00:00:00,58,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-24 00:00:00,64,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-23 00:00:00,50,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-22 00:00:00,54,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-21 00:00:00,75,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-20 00:00:00,93,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-19 00:00:00,123,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-18 00:00:00,189,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-17 00:00:00,224,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-16 00:00:00,131,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-15 00:00:00,99,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-14 00:00:00,59,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-13 00:00:00,25,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-12 00:00:00,14,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-11 00:00:00,16,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-10 00:00:00,19,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-09 00:00:00,23,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-08 00:00:00,27,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-07 00:00:00,31,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-06 00:00:00,37,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-05 00:00:00,45,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-04 00:00:00,60,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-03 00:00:00,80,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-02 00:00:00,74,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-08-01 00:00:00,59,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-31 00:00:00,58,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-30 00:00:00,64,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-29 00:00:00,66,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-28 00:00:00,66,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-27 00:00:00,61,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-26 00:00:00,53,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-25 00:00:00,50,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-24 00:00:00,53,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-23 00:00:00,66,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-22 00:00:00,84,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-21 00:00:00,108,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-20 00:00:00,127,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-19 00:00:00,140,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-18 00:00:00,138,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-17 00:00:00,144,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-16 00:00:00,150,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-15 00:00:00,58,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-14 00:00:00,23,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-13 00:00:00,27,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-12 00:00:00,34,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-11 00:00:00,54,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-10 00:00:00,77,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-09 00:00:00,125,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-08 00:00:00,182,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-07 00:00:00,210,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-06 00:00:00,205,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-05 00:00:00,177,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-04 00:00:00,139,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-03 00:00:00,131,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-02 00:00:00,95,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-07-01 00:00:00,31,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-30 00:00:00,27,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-29 00:00:00,29,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-28 00:00:00,30,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-27 00:00:00,30,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-26 00:00:00,27,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-25 00:00:00,24,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-24 00:00:00,22,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-23 00:00:00,20,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-22 00:00:00,15,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-21 00:00:00,13,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-20 00:00:00,12,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-19 00:00:00,11,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-18 00:00:00,11,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-17 00:00:00,10,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-16 00:00:00,10,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-15 00:00:00,10,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-14 00:00:00,9.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-13 00:00:00,11,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-12 00:00:00,12,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-11 00:00:00,13,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-10 00:00:00,14,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-09 00:00:00,15,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-08 00:00:00,17,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-07 00:00:00,19,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-06 00:00:00,21,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-05 00:00:00,25,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-04 00:00:00,30,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-03 00:00:00,34,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-02 00:00:00,43,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-06-01 00:00:00,56,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-31 00:00:00,72,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-30 00:00:00,86,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-29 00:00:00,96,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-28 00:00:00,113,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-27 00:00:00,122,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-26 00:00:00,125,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-25 00:00:00,126,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-24 00:00:00,128,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-23 00:00:00,140,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-22 00:00:00,60,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-21 00:00:00,31,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-20 00:00:00,30,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-19 00:00:00,31,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-18 00:00:00,37,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-17 00:00:00,45,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-16 00:00:00,53,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-15 00:00:00,59,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-14 00:00:00,64,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-13 00:00:00,69,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-12 00:00:00,75,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-11 00:00:00,80,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-10 00:00:00,86,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-09 00:00:00,83,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-08 00:00:00,80,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-07 00:00:00,82,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-06 00:00:00,88,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-05 00:00:00,80,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-04 00:00:00,70,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-03 00:00:00,69,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-02 00:00:00,69,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-05-01 00:00:00,67,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-30 00:00:00,52,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-29 00:00:00,46,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-28 00:00:00,44,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-27 00:00:00,40,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-26 00:00:00,37,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-25 00:00:00,35,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-24 00:00:00,36,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-23 00:00:00,38,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-22 00:00:00,40,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-21 00:00:00,49,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-20 00:00:00,59,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-19 00:00:00,68,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-18 00:00:00,79,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-17 00:00:00,91,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-16 00:00:00,104,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-15 00:00:00,117,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-14 00:00:00,133,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-13 00:00:00,148,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-12 00:00:00,164,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-11 00:00:00,180,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-10 00:00:00,182,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-09 00:00:00,178,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-08 00:00:00,197,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-07 00:00:00,219,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-06 00:00:00,230,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-05 00:00:00,228,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-04 00:00:00,221,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-03 00:00:00,192,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-02 00:00:00,166,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-04-01 00:00:00,103,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-31 00:00:00,85,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-30 00:00:00,92,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-29 00:00:00,103,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-28 00:00:00,121,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-27 00:00:00,163,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-26 00:00:00,221,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-25 00:00:00,254,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-24 00:00:00,243,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-23 00:00:00,245,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2011-03-22 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-21 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-20 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-19 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-18 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-17 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-16 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-15 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-14 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-13 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-12 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-11 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-10 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-09 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-08 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-07 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-06 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-05 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-04 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-03 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-02 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-03-01 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-28 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-27 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-26 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-25 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-24 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-23 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-22 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-21 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-20 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-19 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-18 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-17 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-16 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-15 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-14 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-13 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-12 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-11 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-10 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-09 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-08 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-07 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-06 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-05 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-04 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-03 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-02 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-02-01 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-31 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-30 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-29 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-28 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-27 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-26 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-25 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-24 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-23 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-22 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-21 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-20 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-19 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-18 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-17 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-16 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-15 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-14 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-13 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-12 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-11 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-10 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-09 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-08 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-07 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-06 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-05 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-04 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-03 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-02 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2011-01-01 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-31 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-30 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-29 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-28 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-27 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-26 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-25 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-24 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-23 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-22 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-21 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-20 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-19 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-18 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-17 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-16 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-15 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-14 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-13 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-12 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-11 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-10 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-09 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-08 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-07 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-06 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-05 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-04 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-03 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-02 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-12-01 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-11-30 00:00:00,0,Ice,Discharge (cfs),approved
+17063001,2010-11-29 00:00:00,13,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-28 00:00:00,13,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-27 00:00:00,14,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-26 00:00:00,14,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-25 00:00:00,15,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-24 00:00:00,16,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-23 00:00:00,20,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-22 00:00:00,16,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-21 00:00:00,17,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-20 00:00:00,20,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-19 00:00:00,20,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-18 00:00:00,21,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-17 00:00:00,21,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-16 00:00:00,21,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-15 00:00:00,20,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-14 00:00:00,20,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-13 00:00:00,19,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-12 00:00:00,21,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-11 00:00:00,24,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-10 00:00:00,28,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-09 00:00:00,33,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-08 00:00:00,43,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-07 00:00:00,57,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-06 00:00:00,72,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-05 00:00:00,87,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-04 00:00:00,103,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-03 00:00:00,119,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-02 00:00:00,136,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-11-01 00:00:00,147,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-31 00:00:00,148,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-30 00:00:00,136,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-29 00:00:00,124,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-28 00:00:00,132,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-27 00:00:00,143,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-26 00:00:00,63,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-25 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-24 00:00:00,6.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-23 00:00:00,4.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-22 00:00:00,4.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-21 00:00:00,4.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-20 00:00:00,4.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-19 00:00:00,4.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-18 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-17 00:00:00,5.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-16 00:00:00,5.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-15 00:00:00,5.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-14 00:00:00,5.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-13 00:00:00,6.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-12 00:00:00,7.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-11 00:00:00,8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-10 00:00:00,9.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-09 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-08 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-07 00:00:00,15,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-06 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-05 00:00:00,21,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-04 00:00:00,24,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-03 00:00:00,27,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-02 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-10-01 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-30 00:00:00,34,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-29 00:00:00,37,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-28 00:00:00,42,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-27 00:00:00,46,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-26 00:00:00,53,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-25 00:00:00,65,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-24 00:00:00,60,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-23 00:00:00,34,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-22 00:00:00,30,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-21 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-20 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-19 00:00:00,33,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-18 00:00:00,36,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-17 00:00:00,40,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-16 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-15 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-14 00:00:00,30,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-13 00:00:00,36,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-12 00:00:00,46,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-11 00:00:00,54,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-10 00:00:00,57,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-09 00:00:00,62,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-08 00:00:00,66,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-07 00:00:00,68,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-06 00:00:00,59,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-05 00:00:00,60,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-04 00:00:00,70,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-03 00:00:00,79,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-02 00:00:00,63,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-09-01 00:00:00,37,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-31 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-30 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-29 00:00:00,34,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-28 00:00:00,45,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-27 00:00:00,57,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-26 00:00:00,69,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-25 00:00:00,79,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-24 00:00:00,85,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-23 00:00:00,81,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-22 00:00:00,76,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-21 00:00:00,71,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-20 00:00:00,59,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-19 00:00:00,41,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-18 00:00:00,42,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-17 00:00:00,44,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-16 00:00:00,48,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-15 00:00:00,49,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-14 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-13 00:00:00,9.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-12 00:00:00,1.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-11 00:00:00,1.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-10 00:00:00,1.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-09 00:00:00,1.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-08 00:00:00,1.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-07 00:00:00,1.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-06 00:00:00,1.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-05 00:00:00,2.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-04 00:00:00,3.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-03 00:00:00,4.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-02 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-08-01 00:00:00,4.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-31 00:00:00,4.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-30 00:00:00,5.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-29 00:00:00,6.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-28 00:00:00,5.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-27 00:00:00,3.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-26 00:00:00,3.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-25 00:00:00,3.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-24 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-23 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-22 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-21 00:00:00,4.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-20 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-19 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-18 00:00:00,3.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-17 00:00:00,1.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-16 00:00:00,1.8,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-15 00:00:00,2.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-14 00:00:00,2.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-13 00:00:00,2.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-12 00:00:00,3.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-11 00:00:00,4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-10 00:00:00,4.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-09 00:00:00,4.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-08 00:00:00,5.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-07 00:00:00,5.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-06 00:00:00,6.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-05 00:00:00,7.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-04 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-03 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-02 00:00:00,20,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-07-01 00:00:00,24,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-30 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-29 00:00:00,37,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-28 00:00:00,48,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-27 00:00:00,52,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-26 00:00:00,42,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-25 00:00:00,33,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-24 00:00:00,26,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-23 00:00:00,19,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-22 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-21 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-20 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-19 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-18 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-17 00:00:00,15,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-16 00:00:00,10,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-15 00:00:00,6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-14 00:00:00,5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-13 00:00:00,4.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-12 00:00:00,4.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-11 00:00:00,3.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-10 00:00:00,2.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-09 00:00:00,2.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-08 00:00:00,2.7,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-07 00:00:00,2.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-06 00:00:00,2.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-05 00:00:00,2.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-04 00:00:00,2.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-03 00:00:00,1.9,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-02 00:00:00,2.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-06-01 00:00:00,2.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-31 00:00:00,2.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-30 00:00:00,3.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-29 00:00:00,3.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-28 00:00:00,4.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-27 00:00:00,5.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-26 00:00:00,7.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-25 00:00:00,8.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-24 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-23 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-22 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-21 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-20 00:00:00,20,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-19 00:00:00,22,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-18 00:00:00,23,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-17 00:00:00,25,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-16 00:00:00,27,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-15 00:00:00,28,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-14 00:00:00,28,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-13 00:00:00,27,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-12 00:00:00,22,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-11 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-10 00:00:00,8.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-09 00:00:00,7.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-08 00:00:00,7.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-07 00:00:00,7.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-06 00:00:00,6.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-05 00:00:00,7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-04 00:00:00,7.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-03 00:00:00,7.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-02 00:00:00,7.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-05-01 00:00:00,7.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-30 00:00:00,7.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-29 00:00:00,7.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-28 00:00:00,7.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-27 00:00:00,7.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-26 00:00:00,7.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-25 00:00:00,8.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-24 00:00:00,8.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-23 00:00:00,8.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-22 00:00:00,8.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-21 00:00:00,10,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-20 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-19 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-18 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-17 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-16 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-15 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-14 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-13 00:00:00,9.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-12 00:00:00,6.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-11 00:00:00,7.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-10 00:00:00,8.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-09 00:00:00,9.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-08 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-07 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-06 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-05 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-04 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-03 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-02 00:00:00,15,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-04-01 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-31 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-30 00:00:00,20,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-29 00:00:00,23,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-28 00:00:00,26,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-27 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-26 00:00:00,35,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-25 00:00:00,47,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-24 00:00:00,59,Good Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-23 00:00:00,72,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-22 00:00:00,86,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-21 00:00:00,102,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-20 00:00:00,129,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-19 00:00:00,159,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-18 00:00:00,187,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-17 00:00:00,220,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-16 00:00:00,258,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-15 00:00:00,287,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-14 00:00:00,271,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-13 00:00:00,226,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-12 00:00:00,190,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-11 00:00:00,157,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2010-03-10 00:00:00,81,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-30 00:00:00,10,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-29 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-28 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-27 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-26 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-25 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-24 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-23 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-22 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-21 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-20 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-19 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-18 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-17 00:00:00,15,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-16 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-15 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-14 00:00:00,20,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-13 00:00:00,21,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-12 00:00:00,23,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-11 00:00:00,24,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-10 00:00:00,27,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-09 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-08 00:00:00,31,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-07 00:00:00,31,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-06 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-05 00:00:00,33,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-04 00:00:00,34,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-03 00:00:00,36,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-02 00:00:00,40,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-11-01 00:00:00,47,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-31 00:00:00,56,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-30 00:00:00,39,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-29 00:00:00,26,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-28 00:00:00,25,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-27 00:00:00,26,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-26 00:00:00,28,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-25 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-24 00:00:00,30,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-23 00:00:00,35,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-22 00:00:00,37,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-21 00:00:00,21,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-20 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-19 00:00:00,17,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-18 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-17 00:00:00,19,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-16 00:00:00,19,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-15 00:00:00,17,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-14 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-13 00:00:00,17,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-12 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-11 00:00:00,20,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-10 00:00:00,21,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-09 00:00:00,25,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-08 00:00:00,30,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-07 00:00:00,30,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-06 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-05 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-04 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-03 00:00:00,10,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-02 00:00:00,5.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-10-01 00:00:00,0.78,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-30 00:00:00,0.25,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-29 00:00:00,0.27,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-28 00:00:00,0.27,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-27 00:00:00,0.29,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-26 00:00:00,0.32,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-25 00:00:00,0.29,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-24 00:00:00,0.34,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-23 00:00:00,0.41,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-22 00:00:00,0.47,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-21 00:00:00,0.53,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-20 00:00:00,0.53,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-19 00:00:00,0.55,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-18 00:00:00,0.6,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-17 00:00:00,0.69,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-16 00:00:00,0.76,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-15 00:00:00,0.87,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-14 00:00:00,1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-13 00:00:00,1.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-12 00:00:00,1.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-11 00:00:00,1.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-10 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-09 00:00:00,1.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-08 00:00:00,2.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-07 00:00:00,2.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-06 00:00:00,3.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-05 00:00:00,4.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-04 00:00:00,5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-03 00:00:00,5.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-02 00:00:00,6.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-09-01 00:00:00,7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-31 00:00:00,8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-30 00:00:00,9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-29 00:00:00,9.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-28 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-27 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-26 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-25 00:00:00,19,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-24 00:00:00,22,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-23 00:00:00,25,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-22 00:00:00,31,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-21 00:00:00,34,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-20 00:00:00,25,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-19 00:00:00,22,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-18 00:00:00,26,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-17 00:00:00,30,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-16 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-15 00:00:00,2.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-14 00:00:00,3.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-13 00:00:00,4.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-12 00:00:00,6.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-11 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-10 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-09 00:00:00,21,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-08 00:00:00,6.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-07 00:00:00,1.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-06 00:00:00,1.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-05 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-04 00:00:00,1.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-03 00:00:00,2.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-02 00:00:00,2.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-08-01 00:00:00,2.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-31 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-30 00:00:00,1.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-29 00:00:00,1.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-28 00:00:00,1.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-27 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-26 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-25 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-24 00:00:00,1.5,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-23 00:00:00,1.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-22 00:00:00,1.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-21 00:00:00,1.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-20 00:00:00,2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-19 00:00:00,5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-18 00:00:00,8.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-17 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-16 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-15 00:00:00,8.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-14 00:00:00,1.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-13 00:00:00,0.47,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-12 00:00:00,0.72,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-11 00:00:00,1.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-10 00:00:00,2.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-09 00:00:00,1.2,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-08 00:00:00,1.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-07 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-06 00:00:00,1.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-05 00:00:00,2.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-04 00:00:00,2.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-03 00:00:00,2.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-02 00:00:00,3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-07-01 00:00:00,3.4,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-30 00:00:00,3.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-29 00:00:00,2.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-28 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-27 00:00:00,0.64,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-26 00:00:00,0.23,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-25 00:00:00,0.26,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-24 00:00:00,0.24,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-23 00:00:00,0.29,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-22 00:00:00,0.38,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-21 00:00:00,0.32,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-20 00:00:00,0.28,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-19 00:00:00,0.39,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-18 00:00:00,0.41,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-17 00:00:00,0.45,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-16 00:00:00,0.42,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-15 00:00:00,0.23,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-14 00:00:00,0.29,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-13 00:00:00,0.38,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-12 00:00:00,0.44,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-11 00:00:00,0.55,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-10 00:00:00,0.62,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-09 00:00:00,0.67,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-08 00:00:00,0.69,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-07 00:00:00,0.58,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-06 00:00:00,0.67,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-05 00:00:00,0.66,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-04 00:00:00,0.79,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-03 00:00:00,0.87,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-02 00:00:00,1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-06-01 00:00:00,1.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-31 00:00:00,1.1,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-30 00:00:00,1.3,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-29 00:00:00,1.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-28 00:00:00,1.4,Fair Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-27 00:00:00,1.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-26 00:00:00,1.8,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-25 00:00:00,1.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-24 00:00:00,2.1,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-23 00:00:00,2.5,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-22 00:00:00,2.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-21 00:00:00,2.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-20 00:00:00,3.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-19 00:00:00,3.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-18 00:00:00,5.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-17 00:00:00,5.6,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-16 00:00:00,5.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-15 00:00:00,5.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-14 00:00:00,5.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-13 00:00:00,5.7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-12 00:00:00,6.2,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-11 00:00:00,7,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-10 00:00:00,7.9,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-09 00:00:00,9.3,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-08 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-07 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-06 00:00:00,11,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-05 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-04 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-03 00:00:00,15,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-02 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-05-01 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-30 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-29 00:00:00,15,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-28 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-27 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-26 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-25 00:00:00,12,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-24 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-23 00:00:00,13,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-22 00:00:00,14,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-21 00:00:00,15,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-20 00:00:00,16,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-19 00:00:00,17,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-18 00:00:00,18,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-17 00:00:00,19,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-16 00:00:00,21,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-15 00:00:00,23,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-14 00:00:00,25,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-13 00:00:00,27,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-12 00:00:00,29,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-11 00:00:00,32,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-10 00:00:00,34,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-09 00:00:00,38,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-08 00:00:00,42,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-07 00:00:00,46,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-06 00:00:00,52,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-05 00:00:00,58,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-04 00:00:00,63,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-03 00:00:00,63,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-02 00:00:00,66,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-04-01 00:00:00,79,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-31 00:00:00,98,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-30 00:00:00,137,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-29 00:00:00,186,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-28 00:00:00,247,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-27 00:00:00,298,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-26 00:00:00,340,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-25 00:00:00,327,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-24 00:00:00,318,Good Archived Daily ,Discharge (cfs),approved
+17063001,2009-03-23 00:00:00,266,Good Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-09 00:00:00,2.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-08 00:00:00,2.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-07 00:00:00,1.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-06 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-05 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-04 00:00:00,1.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-03 00:00:00,1.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-02 00:00:00,1.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-12-01 00:00:00,1.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-30 00:00:00,2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-29 00:00:00,2.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-28 00:00:00,2.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-27 00:00:00,2.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-26 00:00:00,2.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-25 00:00:00,3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-24 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-23 00:00:00,3.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-22 00:00:00,3.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-21 00:00:00,3.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-20 00:00:00,4.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-19 00:00:00,4.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-18 00:00:00,4.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-17 00:00:00,5.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-16 00:00:00,6.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-15 00:00:00,7.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-14 00:00:00,6.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-13 00:00:00,5.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-12 00:00:00,5.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-11 00:00:00,4.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-10 00:00:00,3.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-09 00:00:00,3.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-08 00:00:00,3.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-07 00:00:00,3.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-06 00:00:00,3.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-05 00:00:00,3.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-04 00:00:00,3.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-03 00:00:00,3.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-02 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-11-01 00:00:00,3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-31 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-30 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-29 00:00:00,3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-28 00:00:00,2.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-27 00:00:00,2.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-26 00:00:00,2.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-25 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-24 00:00:00,3.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-23 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-22 00:00:00,2.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-21 00:00:00,2.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-20 00:00:00,2.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-19 00:00:00,2.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-18 00:00:00,2.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-17 00:00:00,2.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-16 00:00:00,2.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-15 00:00:00,2.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-14 00:00:00,2.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-13 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-12 00:00:00,3.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-11 00:00:00,3.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-10 00:00:00,2.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-09 00:00:00,2.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-08 00:00:00,1.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-07 00:00:00,1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-06 00:00:00,0.79,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-05 00:00:00,0.72,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-04 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-03 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-02 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-10-01 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-30 00:00:00,0.73,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-29 00:00:00,0.71,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-28 00:00:00,0.72,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-27 00:00:00,0.75,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-26 00:00:00,0.87,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-25 00:00:00,0.82,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-24 00:00:00,0.72,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-23 00:00:00,0.82,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-22 00:00:00,0.88,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-21 00:00:00,0.89,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-20 00:00:00,0.88,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-19 00:00:00,0.88,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-18 00:00:00,0.89,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-17 00:00:00,0.91,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-16 00:00:00,0.93,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-15 00:00:00,0.94,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-14 00:00:00,0.93,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-13 00:00:00,0.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-12 00:00:00,0.89,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-11 00:00:00,0.77,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-10 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-09 00:00:00,0.57,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-08 00:00:00,0.54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-07 00:00:00,0.54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-06 00:00:00,0.56,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-05 00:00:00,0.56,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-04 00:00:00,0.61,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-03 00:00:00,0.69,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-02 00:00:00,0.81,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-09-01 00:00:00,0.86,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-31 00:00:00,0.83,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-30 00:00:00,0.79,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-29 00:00:00,0.79,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-28 00:00:00,0.86,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-27 00:00:00,0.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-26 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-25 00:00:00,0.59,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-24 00:00:00,0.55,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-23 00:00:00,0.54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-22 00:00:00,0.63,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-21 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-20 00:00:00,0.63,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-19 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-18 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-17 00:00:00,0.69,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-16 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-15 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-14 00:00:00,0.68,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-13 00:00:00,0.68,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-12 00:00:00,0.65,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-11 00:00:00,0.59,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-10 00:00:00,0.53,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-09 00:00:00,0.56,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-08 00:00:00,0.58,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-07 00:00:00,0.59,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-06 00:00:00,0.66,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-05 00:00:00,0.75,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-04 00:00:00,0.86,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-03 00:00:00,0.61,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-02 00:00:00,0.56,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-08-01 00:00:00,0.62,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-31 00:00:00,0.72,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-30 00:00:00,0.78,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-29 00:00:00,0.84,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-28 00:00:00,0.85,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-27 00:00:00,0.87,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-26 00:00:00,0.92,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-25 00:00:00,0.99,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-24 00:00:00,1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-23 00:00:00,1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-22 00:00:00,1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-21 00:00:00,1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-20 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-19 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-18 00:00:00,1.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-17 00:00:00,1.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-16 00:00:00,2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-15 00:00:00,2.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-14 00:00:00,2.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-13 00:00:00,2.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-12 00:00:00,3.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-11 00:00:00,3.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-10 00:00:00,3.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-09 00:00:00,4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-08 00:00:00,4.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-07 00:00:00,5.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-06 00:00:00,6.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-05 00:00:00,7.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-04 00:00:00,7.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-03 00:00:00,8.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-02 00:00:00,9.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-07-01 00:00:00,9.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-30 00:00:00,9.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-29 00:00:00,9.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-28 00:00:00,9.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-27 00:00:00,9.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-26 00:00:00,10,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-25 00:00:00,12,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-24 00:00:00,14,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-23 00:00:00,19,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-22 00:00:00,23,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-21 00:00:00,31,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-20 00:00:00,41,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-19 00:00:00,49,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-18 00:00:00,55,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-17 00:00:00,66,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-16 00:00:00,74,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-15 00:00:00,87,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-14 00:00:00,99,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-13 00:00:00,112,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-12 00:00:00,120,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-11 00:00:00,96,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-10 00:00:00,95,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-09 00:00:00,99,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-08 00:00:00,101,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-07 00:00:00,107,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-06 00:00:00,71,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-05 00:00:00,20,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-04 00:00:00,25,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-03 00:00:00,23,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-02 00:00:00,22,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-06-01 00:00:00,21,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-31 00:00:00,17,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-30 00:00:00,10,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-29 00:00:00,8.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-28 00:00:00,8.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-27 00:00:00,7.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-26 00:00:00,7.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-25 00:00:00,8.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-24 00:00:00,8.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-23 00:00:00,8.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-22 00:00:00,9.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-21 00:00:00,10,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-20 00:00:00,12,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-19 00:00:00,15,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-18 00:00:00,18,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-17 00:00:00,22,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-16 00:00:00,28,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-15 00:00:00,30,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-14 00:00:00,33,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-13 00:00:00,38,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-12 00:00:00,45,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-11 00:00:00,44,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-10 00:00:00,41,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-09 00:00:00,42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-08 00:00:00,45,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-07 00:00:00,51,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-06 00:00:00,56,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-05 00:00:00,61,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-04 00:00:00,64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-03 00:00:00,61,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-02 00:00:00,52,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-05-01 00:00:00,54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-30 00:00:00,55,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-29 00:00:00,54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-28 00:00:00,54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-27 00:00:00,52,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-26 00:00:00,48,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-25 00:00:00,41,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-24 00:00:00,41,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-23 00:00:00,43,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-22 00:00:00,45,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-21 00:00:00,46,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-20 00:00:00,46,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-19 00:00:00,47,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-18 00:00:00,52,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-17 00:00:00,54,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-16 00:00:00,55,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-15 00:00:00,30,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-14 00:00:00,28,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-13 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-12 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-11 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-10 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-09 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-08 00:00:00,27,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-07 00:00:00,26,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-06 00:00:00,24,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-05 00:00:00,23,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-04 00:00:00,23,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-03 00:00:00,22,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-02 00:00:00,21,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-04-01 00:00:00,19,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2008-03-31 00:00:00,19,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-11 00:00:00,3.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-10 00:00:00,3.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-09 00:00:00,3.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-08 00:00:00,3.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-07 00:00:00,3.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-06 00:00:00,3.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-05 00:00:00,3.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-04 00:00:00,2.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-03 00:00:00,2.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-02 00:00:00,1.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-12-01 00:00:00,1.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-30 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-29 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-28 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-27 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-26 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-25 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-24 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-23 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-22 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-21 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-20 00:00:00,1.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-19 00:00:00,1.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-18 00:00:00,1.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-17 00:00:00,1.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-16 00:00:00,1.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-15 00:00:00,1.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-14 00:00:00,1.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-13 00:00:00,1.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-12 00:00:00,1.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-11 00:00:00,1.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-10 00:00:00,2.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-09 00:00:00,2.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-08 00:00:00,2.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-07 00:00:00,2.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-06 00:00:00,2.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-05 00:00:00,3.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-04 00:00:00,3.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-03 00:00:00,4.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-02 00:00:00,4.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-11-01 00:00:00,5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-31 00:00:00,5.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-30 00:00:00,5.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-29 00:00:00,6.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-28 00:00:00,7.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-27 00:00:00,8.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-26 00:00:00,8.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-25 00:00:00,9.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-24 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-23 00:00:00,12,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-22 00:00:00,16,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-21 00:00:00,19,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-20 00:00:00,18,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-19 00:00:00,12,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-18 00:00:00,8.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-17 00:00:00,7.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-16 00:00:00,7.2,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-15 00:00:00,7.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-14 00:00:00,8.8,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-13 00:00:00,9.9,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-12 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-11 00:00:00,12,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-10 00:00:00,11,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-09 00:00:00,6.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-08 00:00:00,1.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-07 00:00:00,0.87,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-06 00:00:00,0.85,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-05 00:00:00,0.81,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-04 00:00:00,0.72,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-03 00:00:00,0.81,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-02 00:00:00,0.74,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-10-01 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-30 00:00:00,0.66,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-29 00:00:00,0.65,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-28 00:00:00,0.65,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-27 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-26 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-25 00:00:00,0.66,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-24 00:00:00,0.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-23 00:00:00,0.55,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-22 00:00:00,0.63,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-21 00:00:00,0.75,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-20 00:00:00,0.7,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-19 00:00:00,0.64,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-18 00:00:00,0.67,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-17 00:00:00,0.47,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-16 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-15 00:00:00,0.34,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-14 00:00:00,0.37,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-13 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-12 00:00:00,0.38,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-11 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-10 00:00:00,0.41,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-09 00:00:00,0.42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-08 00:00:00,0.42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-07 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-06 00:00:00,0.36,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-05 00:00:00,0.36,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-04 00:00:00,0.37,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-03 00:00:00,0.37,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-02 00:00:00,0.38,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-09-01 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-31 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-30 00:00:00,0.42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-29 00:00:00,0.46,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-28 00:00:00,0.52,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-27 00:00:00,0.45,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-26 00:00:00,0.42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-25 00:00:00,0.43,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-24 00:00:00,0.47,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-23 00:00:00,0.48,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-22 00:00:00,0.52,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-21 00:00:00,0.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-20 00:00:00,0.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-19 00:00:00,0.57,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-18 00:00:00,0.52,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-17 00:00:00,0.48,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-16 00:00:00,0.43,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-15 00:00:00,0.49,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-14 00:00:00,0.76,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-13 00:00:00,0.42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-12 00:00:00,0.42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-11 00:00:00,0.55,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-10 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-09 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-08 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-07 00:00:00,0.31,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-06 00:00:00,0.31,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-05 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-04 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-03 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-02 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-08-01 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-31 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-30 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-29 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-28 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-27 00:00:00,0.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-26 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-25 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-24 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-23 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-22 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-21 00:00:00,0.29,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-20 00:00:00,0.31,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-19 00:00:00,0.32,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-18 00:00:00,0.31,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-17 00:00:00,0.3,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-16 00:00:00,0.32,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-15 00:00:00,0.34,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-14 00:00:00,0.34,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-13 00:00:00,0.32,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-12 00:00:00,0.33,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-11 00:00:00,0.36,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-10 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-09 00:00:00,0.42,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-08 00:00:00,0.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-07 00:00:00,0.66,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-06 00:00:00,1.1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-05 00:00:00,0.49,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-04 00:00:00,0.43,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-03 00:00:00,0.43,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-02 00:00:00,0.4,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-07-01 00:00:00,0.33,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-30 00:00:00,0.35,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-29 00:00:00,0.39,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-28 00:00:00,0.44,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-27 00:00:00,0.46,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-26 00:00:00,0.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-25 00:00:00,0.5,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-24 00:00:00,0.53,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-23 00:00:00,0.6,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-22 00:00:00,0.65,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-21 00:00:00,0.68,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-20 00:00:00,0.69,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-19 00:00:00,0.77,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-18 00:00:00,0.84,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-17 00:00:00,0.84,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-16 00:00:00,0.88,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-15 00:00:00,0.94,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-14 00:00:00,1,Poor Archived Daily ,Discharge (cfs),approved
+17063001,2007-06-13 00:00:00,1.2,Poor Archived Daily ,Discharge (cfs),approved
